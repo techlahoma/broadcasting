@@ -33,7 +33,6 @@ _(Requires training)_
 * AbhiShek Ghale
 * Alex Adriaanse
 * Ava
-* Billy Mabray
 * Caitlin
 * Carson McKinstry
 * Erin
@@ -42,7 +41,6 @@ _(Requires training)_
 * Lawrence Kincheloe
 * Lucas Watson
 * Michal Carson
-* Patrick Hartley
 * Ryan Johnson
 * Vianka
 

@@ -13,7 +13,9 @@ Instructions for Streaming Volunteers:
   appropriate element in the *Sources* section to change it. Suggested format:
     * Talk title: *\<title\>*
     * Speaker name: *\<speaker name\> | \<user group name\>*
+* Turn on camera and remove lens cap
 * Raise camera above crowd
+* Ask speaker to stand at the lectern and make sure he or she is in focus.
 * Make sure speakers are framed PRIOR to going live
 * Replace the battery in the microphone
 * **Turn on microphone and check for input (moving green bar) in OBS client**
@@ -23,9 +25,9 @@ Instructions for Streaming Volunteers:
       in which cause that audio source should be unmuted and tested.
 * Position the microphone so that it's close to and pointed towards the
   speaker's mouth
-* Make sure slides are functioning
-* Request speakers turn off display tools like F.lux
 * Turn on projectors and presenter screen
+* Request speakers turn off display tools like F.lux
+* Make sure slides are functioning
 * Project slides to Display 1
 * Set start time in Snaz (generally 5-15 minutes after the meetup starts; if the
   user group leader doesn't have a preference 5 minutes usually works well)

@@ -11,8 +11,8 @@ Instructions for Streaming Volunteers:
   anything on the slide itself!** Otherwise you may inadvertently move text
   around, and it is hard to change back. Instead, double-click on the
   appropriate element in the *Sources* section to change it. Suggested format:
-    * Talk title: *\<title\>*
-    * Speaker name: *\<speaker name\> | \<user group name\>*
+    * Talk title: `<title>`
+    * Speaker name: `<speaker name> | <user group name>`
 * Turn on camera and remove lens cap
 * Raise camera above crowd
 * Ask speaker to stand at the lectern and make sure he or she is in focus.
@@ -27,8 +27,8 @@ Instructions for Streaming Volunteers:
   speaker's mouth
 * Turn on projectors and presenter screen
 * Request speakers turn off display tools like F.lux
-* Make sure slides are functioning
-* Project slides to Display 1
+* Project slides to the appropriate Display # in OBS
+* Make sure slides are functioning and visible on both projector screens
 * Set start time in Snaz (generally 5-15 minutes after the meetup starts; if the
   user group leader doesn't have a preference 5 minutes usually works well)
 * Make sure countdown is up in live frame and start streaming
@@ -37,7 +37,7 @@ Instructions for Streaming Volunteers:
 
 Post Stream:
 * Switch to the *Ending* slide in OBS
-* Do !end command if in the Techlahoma Channel
+* Do `!end` command if in the Techlahoma Channel
 * Make sure stream is turned off and PC is asleep
 * Make sure mic is turned off
 * Charge the mic battery

@@ -28,7 +28,7 @@ Contact Kimberly if you would like to be involved!
 * Ryan Johnson
 
 ### Stream Team
-_(Requires training)_
+_(Requires at least 2 training sessions)_
 * Aaron Krauss
 * AbhiShek Ghale
 * Alex Adriaanse
@@ -42,11 +42,13 @@ _(Requires training)_
 * Lucas Watson
 * Michal Carson
 * Ryan Johnson
+* Tony Karanja
 * Vianka
 
 ### Twitch Highlighters:
 _(Requires training)_
 * Austin Keeton
+* Blake Gerard
 * Erin
 * Joe Lee
 * Joe Matthews

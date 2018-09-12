@@ -22,6 +22,7 @@ Contact Kimberly if you would like to be involved!
 ### OKC Broadcasting Committee Members 
 * Aaron Krauss
 * Alex Adriaanse
+* Austin Keeton
 * Ava
 * Kimberly Collins (chair)
 * Mike Mattice
@@ -32,6 +33,7 @@ _(Requires at least 2 training sessions)_
 * Aaron Krauss
 * AbhiShek Ghale
 * Alex Adriaanse
+* Austin Keeton
 * Ava
 * Caitlin
 * Carson McKinstry

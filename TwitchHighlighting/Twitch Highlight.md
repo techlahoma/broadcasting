@@ -32,6 +32,8 @@ Exclude the "dead time" before and after the talk.
 Event: Speakername - Title [year]
 ```
 
+The title must be less than 100 characters, or the export to YouTube will fail.
+
 ### 7. Provide a Description, and also provide tags. 
 
 For the Description, try going to Meetup.com and seeing if one is provided by the group. It's just a copy + paste and you know it's correct. This is the preferred way to go.

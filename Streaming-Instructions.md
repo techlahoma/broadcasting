@@ -48,5 +48,6 @@ Things to know:
 * The crowd doesn't have a mic! Ask the speaker to repeat questions before answering them.
 * Switch to slides&audience if you need to adjust the camera
 * Don't use the lav mic.
+* Copyrighted music cannot be played
 
 [Wireframe of Techlahoma A/V Loadout 2017](https://drive.google.com/open?id=0BwyTR7aWvDukcXhjSVM4eTBOdjQ)

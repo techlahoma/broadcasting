@@ -19,4 +19,5 @@
   * Try to stay at the lectern so that you will be on camera. If you move away, take the microphone with you so that there will be audio.
   * Let the A/V volunteer know whether the presentation contains audio/video, so that can be tested before your talk starts.
   * If your talk was streamed, a link to the broadcast will be available on [Twitch](https://www.twitch.tv/techlahoma/videos/archive) for 60 days. A Techlahoma volunteer will save the video as a [highlight](https://www.twitch.tv/techlahoma/videos/highlight) and export it to [YouTube](https://youtube.com/c/techlahoma). Please let an A/V volunteer know if you have any additions or corrections to make to the video descriptions, or if you don't want the video on Twitch or YouTube.
+  * Please be aware that copyrighted music cannot be played during the stream.
 * Consider adding your topic and/or bio to the Techlahoma speaker list: https://github.com/techlahoma/user-groups/blob/master/SPEAKERS-AND-TOPICS.md 

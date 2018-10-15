@@ -5,8 +5,11 @@ Instructions for Streaming Volunteers:
 * Change stream key (if applicable)
 * **Make sure the streamer is aware and okay with being recorded**
 * Make sure Talk Name is correct on Twitch
-* Set channel to Creative: #programming
+* Set channel to Category: Science & Technology
     * If there is a popular group that is more applicable, change to that instead
+* Set Tags appropriately, Recommended: Educational, Software Development, Web Development
+    * If there are more applicable Tags in future, adjust Tags accordingly
+* Confirm Language: English    
 * Set talk title and speaker name in OBS. **Do not do this by clicking on
   anything on the slide itself!** Otherwise you may inadvertently move text
   around, and it is hard to change back. Instead, double-click on the
@@ -46,6 +49,8 @@ Post Stream:
 
 Things to know:
 * The crowd doesn't have a mic! Ask the speaker to repeat questions before answering them.
+* Leave extra time, or ask for questions early, from Twitch/stream audience. They may be typing
+  a question without giving you a notice that they have a question to ask.
 * Switch to slides&audience if you need to adjust the camera
 * Don't use the lav mic.
 * Copyrighted music cannot be played

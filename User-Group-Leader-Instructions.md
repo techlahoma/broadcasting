@@ -8,5 +8,11 @@
   * Read the event intro to the group: https://github.com/techlahoma/event-intro 
   * Watch the [Twitch chat](https://www.twitch.tv/techlahoma) and/or the [#twitch-chat](https://techlahoma.slack.com/messages/twitch-chat) Slack channel during the talk for any questions to relay to the speaker.
   * Remind speakers to repeat questions when they forget.
-* The original broadcast on Twitch will expire, so verify that a volunteer has created a [highlight](https://www.twitch.tv/techlahoma/videos/highlight) of the video within one month.
-* Be sure that the event page on Meetup contains the talk title, the speaker's name, and a summary of the talk that can be used for the video description (including lightning talks).
+* After the meetup:
+  * The original broadcast on Twitch will expire, so verify that a volunteer has created a [highlight](https://www.twitch.tv/techlahoma/videos/highlight) of the video within one month.
+  * Be sure that the event page on Meetup contains the talk title, the speaker's name, and a summary of the talk that can be used for the video description (including lightning talks).
+* If you don't know how to do any of the following tasks, ask a volunteer to show you how!
+  * Putting slides on projectors
+  * Changing microphone batteries
+  * Changing microphone volume
+  * Turning projectors off and on

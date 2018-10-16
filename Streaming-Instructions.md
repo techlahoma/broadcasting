@@ -46,6 +46,13 @@
 * Project slides to the appropriate Display # in OBS
 * Make sure slides are functioning and visible on both projector screens
 
+### Chromecast
+* Open Google Chrome 
+* Right click or go to the menu, then select `Cast`
+* Select `Cast to` and change the source to `desktop`
+* Select the screen showing the slides
+* **Unselect the share audio checkbox**
+
 ### Starting the Stream
 * Set start time in Snaz (generally 5-15 minutes after the meetup starts; if the
   user group leader doesn't have a preference 5 minutes usually works well)

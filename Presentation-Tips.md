@@ -6,6 +6,7 @@
 * Say your name and the title or a short summary of your talk at the beginning.
 * Slides/Code
   * Dark themes are best for live coding.
+  * Ensure text has a high constrast with background for legibility
   * Red and magenta are difficult to read on a black background.
   * When in doubt, increase your font size! Bigger is almost always better.
   * Assume 960x700 is a safe slide size.

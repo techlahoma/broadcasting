@@ -60,14 +60,14 @@
 * **Test the microphone and listen to the audio on Twitch**
     * If no audio on Twitch, unplug the USB on the back of the mixer board and plug it back in.
 
-### Post Stream
+### Ending the Stream
 * Switch to the *Ending* slide in OBS
-* Do `!end` command if in the Techlahoma Channel
-* Make sure stream is turned off and PC is asleep
+* ~Do `!end` command if in the Techlahoma Channel~ (These commands are currently not working.)
+* Click `Stop Streaming` and confirm that you want to stop the stream
 * Make sure mic is turned off
 * Charge the mic battery
 * Make sure camera is turned off and lens cap is on
-* Update the talk name on Twitch for the next scheduled broadcast
+* Update the stream title and go live notification in the Twitch dashboard for the next scheduled broadcast
 
 ### Things to know
 * The crowd doesn't have a mic! Ask the speaker to repeat questions before answering them.

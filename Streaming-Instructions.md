@@ -14,10 +14,10 @@
     * Speaker name: `<speaker name> | <user group name>`
 
 ### Twitch
-* Make sure Talk Name is correct on dashboard
+* Set title on dashboard: `Title - Speaker Name: Group Name`
 * Set channel to Category: `Science & Technology`
     * If there is a popular group that is more applicable, change to that instead
-* Set Tags appropriately, Recommended: `Educational`, `Software Development`, `Tutorial`, `Web Development`
+* Set Tags appropriately. Recommended: `Educational`, `Software Development`, `Tutorial`, `Web Development`
     * If there are more applicable Tags in future, adjust Tags accordingly
     * `3D Printing`, `Engineering`, and `Robotics` may apply for OKC OSH
     * `Design` and `Graphic Design`, especially for OKC Design Tech

@@ -1,3 +1,5 @@
+# Twitch Chat Messages
+
 ### Introductory Message:
 
 Welcome to [user group name]! Today we will be streaming "[talk name] with [speaker name]".

@@ -1,3 +1,5 @@
+# Changing Projector Input
+
 To show the screen on a laptop connected by HDMI,
 * Go to OBS
 * Select "Plain - Primary Slides" from the list of scenes in the lower left corner

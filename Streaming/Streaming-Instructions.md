@@ -58,7 +58,6 @@
   user group leader doesn't have a preference 5 minutes usually works well)
 * Make sure countdown is up in live frame and start streaming
 * **Test the microphone and listen to the audio on Twitch**
-    * If no audio on Twitch, unplug the USB on the back of the mixer board and plug it back in.
 
 ### Ending the Stream
 * Switch to the *Ending* slide in OBS
@@ -76,5 +75,9 @@
 * Switch to slides&audience if you need to adjust the camera
 * Don't use the lav mic.
 * Copyrighted music cannot be played
+
+### Troubleshooting
+* If no audio on Twitch, unplug the USB on the back of the mixer board and plug it back in.
+* To increase stream volume but not house volume, just slowly move the mic (ch. 4) fader up (which affects both house + stream) while moving the Main fader down at the same time to compensate & keep house volume steady.
 
 [Wireframe of Techlahoma A/V Loadout 2017](https://drive.google.com/open?id=0BwyTR7aWvDukcXhjSVM4eTBOdjQ)

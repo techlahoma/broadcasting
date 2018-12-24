@@ -29,7 +29,7 @@ Exclude the "dead time" before and after the talk.
 ### 6. Name the highlight using the following format:
 
 ```
-Event: Speakername - Title [year]
+Talk Title - Speaker Name - Event/Group
 ```
 
 The title must be less than 100 characters, or the export to YouTube will fail.

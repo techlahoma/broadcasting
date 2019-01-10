@@ -25,4 +25,4 @@
   * Dark blues are hard to see for font.
   * Restrict 'fancy' fonts to headers unless the text is very large.
   * If your slide expresses multiple ideas, break it apart into more slides. Err on the side of being too sparse rather than too busy.
-  * Disable display tools like Flux.
+  * Disable blue light reduction tools like [Flux](https://justgetflux.com/).

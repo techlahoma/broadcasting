@@ -2,7 +2,8 @@
 * A/V equipment can only be manipulated or accessed by a member of the Streaming Team or a designated user group leader who has been authorized and trained previously.
 * Before the meetup:
   * Make sure the presenters know that streaming and recording are optional.
-  * **At least 1 week** before your scheduled event, confirm whether the speakers consent to streaming and let an A/V volunteer know whether you would like to use the projectors or have the meetup streamed to Twitch. If a volunteer is not available, you will not have access to the A/V equipment or streaming. You can check the status of streaming for your meetup on the [Streaming Volunteer Calendar](https://calendar.google.com/calendar?cid=dnJmaWptZnBiZXE0M2VuczlwYzZxOW9sdGtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ).
+  * **At least 1 week** before your scheduled event, confirm whether the speakers consent to streaming and let an A/V volunteer know whether you would like to use the projectors or have the meetup streamed to Twitch. If a volunteer is not available, you will not have access to the A/V equipment or streaming.
+  * Have each speaker fill out the [Speaker Form]( https://goo.gl/forms/8oFiRFWyK41JaSX33) to give consent for streaming and to provide information about the talk.
   * Let the A/V volunteer know whether the presentation contains any content that cannot be streamed or recorded.
 * During the meetup:
   * Turn the microphone on when you’re ready to start streaming, and turn it off at the end of the stream.

@@ -1,6 +1,6 @@
 # Broadcasting Documentation
 
-## OKC Broadcasting Committee Responsibilities
+## Broadcasting Committee Responsibilities
 * Manage A/V equipment in StarSpace46 event center
 * Train A/V volunteers and document processes
 * Provide guidance to and coordinate with user group leaders and speakers
@@ -32,7 +32,7 @@
 ## Volunteers
 Contact Kimberly if you would like to be involved!
 
-### OKC Broadcasting Committee Members
+### Broadcasting Committee Members
 * Aaron Krauss
 * Alex Adriaanse
 * Austin Keeton
@@ -44,30 +44,17 @@ Contact Kimberly if you would like to be involved!
 ### Stream Team
 _(Requires at least 2 training sessions)_
 * Aaron Krauss
-* AbhiShek Ghale
 * Alex Adriaanse
 * Austin Keeton
 * Ava
 * Caitlin
 * Carson McKinstry
-* Erin
-* Jordan Parmer
 * Kimberly Collins
-* Lawrence Kincheloe
-* Lucas Watson
 * Michal Carson
 * Ryan Johnson
 * Tony Karanja
-* Vianka
 
 ### Twitch Highlighters:
 _(Requires training)_
 * Austin Keeton
-* Blake Gerard
-* Erin
-* Joe Lee
-* Joe Matthews
 * Kimberly Collins
-* Michal Carson
-* Mike Mattice
-* Ryan Johnson

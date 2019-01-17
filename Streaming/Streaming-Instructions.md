@@ -18,7 +18,7 @@
 * Set channel to Category: `Science & Technology`
     * If there is a popular group that is more applicable, change to that instead
 * Set Tags appropriately. Recommended: `Educational`, `Software Development`, `Tutorial`, `Web Development`
-    * If there are more applicable Tags in future, adjust Tags accordingly
+    * If there are more applicable [Tags](https://help.twitch.tv/customer/portal/articles/2956216-available-tags) in future, adjust Tags accordingly
     * `3D Printing`, `Engineering`, and `Robotics` may apply for OKC OSH
     * `Design` and `Graphic Design`, especially for OKC Design Tech
     * `Game Development` for OK Game Devs

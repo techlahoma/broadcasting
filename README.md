@@ -32,14 +32,7 @@
 ## Volunteers
 Contact Kimberly if you would like to be involved!
 
-### Broadcasting Committee Members
-* Aaron Krauss
-* Alex Adriaanse
-* Austin Keeton
-* Ava
-* Kimberly Collins (chair)
-* Mike Mattice
-* Ryan Johnson
+### [Broadcasting Committee Members](https://github.com/techlahoma/committees/blob/master/broadcasting.md)
 
 ### Stream Team
 _(Requires at least 2 training sessions)_

@@ -4,11 +4,13 @@
   * #broadcast-committee
   * @broadcastcommittee
 * Responsibilities
-  * Manage A/V equipment in StarSpace46 event center (OKC A/V Hardware Team)
-  * Coordinate streaming with user group leaders, speakers, and volunteers (OKC A/V Volunteer Management Team)
-  * Stream meetups at StarSpace46 to Twitch (OKC Stream Team)
-  * Manage Techlahoma's Twitch channel (Twitch Channel Management Team)
-  * Manage Techlahoma's YouTube channel (YouTube Channel Management Team)
+  * [OKC A/V Hardware Team](#okc-av-hardware-team) - Manage A/V equipment in StarSpace46 event center
+  * [OKC A/V Volunteer Management Team](#okc-av-volunteer-management-team) - Coordinate streaming with user group leaders, speakers, and volunteers
+  * [OKC Stream Team](#okc-stream-team) - Stream Techlahoma meetups at StarSpace46 to Twitch
+  * [Norman Stream Team](#norman-stream-team) - Stream Techlahoma meetups at Tom Love Innovation Hub to Twitch
+  * [Twitch Channel Management Team](#twitch-channel-management-team) - Manage Techlahoma's Twitch channel
+  * [Twitch Highlighting Team](#twitch-highlighting-team) - Manage highlighting and exporting to YouTube
+  * [YouTube Channel Management Team](#youtube-channel-management-team) - Manage Techlahoma's YouTube channel
 
 ### OKC A/V Hardware Team
 * Members
@@ -24,25 +26,26 @@
 * Members
   * Aaron Krauss, Kimberly Collins, Ryan Johnson
   * #ss46-ug-leaders
-  * @broadcastcommittee
 * Responsibilities
-  * Train volunteers (at least one per group)
-  * Coordinate with user group leaders, speakers, and stream team volunteers (in the #ss46-ug-leaders channel)
+  * Coordinate with user group leaders, speakers, and stream team volunteers
+  * Train volunteers (at least one per group) on streaming processes
   * Document processes
-  * Determine whether chatbot can/should be fixed
 
 ### OKC Stream Team
 * Members
   * #ss46-ug-leaders
-  * @streamteam
   * **need more volunteers**
   * Volunteers who have been trained and are willing to stream meetups on a regular basis
   * User group leaders who have been trained and are willing to stream meetups but generally only for their own groups
+* Responsibilities
+  * Stream Techlahoma meetups at StarSpace46 to Twitch
 
 ### Norman Stream Team
 * Members
-  * Joe Matthews, Chris Tse, Kristin Garcia, Austin Keeton
+  * Kristin Garcia (lead), Joe Matthews, Chris Tse, Austin Keeton, Chris Aguilar
   * #norman-stream-team
+* Responsibilities
+  * Stream Techlahoma meetups at Tom Love Innovation Hub to Twitch
 
 ### Tulsa Stream Team
 * Members
@@ -57,7 +60,8 @@
   * Coordinate with OKC, Muskogee, Norman, and Tulsa groups
   * Help non-SS46 groups create Twitch channels
   * Set up (auto) hosting
-  * Get people to subscribe with Twitch Prime
+  * Coordinate Twitch Prime subscriptions with fundraising committee
+  * Determine whether chatbot can/should be fixed (discussion in #twitch-chatbot channel)
 
 ### Twitch Highlighting Team
 * Members

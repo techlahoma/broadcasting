@@ -34,20 +34,4 @@ Contact Kimberly if you would like to be involved!
 
 ### [Broadcasting Committee Members](https://github.com/techlahoma/committees/blob/master/broadcasting.md)
 
-### Stream Team
-_(Requires at least 2 training sessions)_
-* Aaron Krauss
-* Alex Adriaanse
-* Austin Keeton
-* Ava
-* Caitlin
-* Carson McKinstry
-* Kimberly Collins
-* Michal Carson
-* Ryan Johnson
-* Tony Karanja
-
-### Twitch Highlighters:
-_(Requires training)_
-* Austin Keeton
-* Kimberly Collins
+### [Broadcasting Committee Teams](https://github.com/techlahoma/broadcasting/blob/master/teams.md)

@@ -1,6 +1,6 @@
 ### Broadcasting Committee
 * Members
-  * Kimberly (chair), Aaron Krauss, Alex Adriaanse, Austin Keeton, Ava, Mike Mattice, Ryan Johnson
+  * Kimberly Collins (chair), Aaron Krauss, Alex Adriaanse, Austin Keeton, Ava, Mike Mattice, Ryan Johnson
   * #broadcast-committee
   * @broadcastcommittee
 * Responsibilities
@@ -34,7 +34,8 @@
 ### OKC Stream Team
 * Members
   * #ss46-ug-leaders
-  * *need more volunteers*
+  * @streamteam
+  * **need more volunteers**
   * Volunteers who have been trained and are willing to stream meetups on a regular basis
   * User group leaders who have been trained and are willing to stream meetups but generally only for their own groups
 
@@ -45,11 +46,12 @@
 
 ### Tulsa Stream Team
 * Members
-  * Not enough interest to form a team yet - *need more volunteers*
+  * Not enough interest to form a team yet
+  * **need more volunteers**
 
 ### Twitch Channel Management Team
 * Members
-  * Matthew Williams (lead), Blixa Morgan, Kimberly Collins, *need more volunteers*
+  * Matthew Williams (lead), Blixa Morgan, Kimberly Collins, **need more volunteers**
   * #twitch-channel-mgmt
 * Responsibilities
   * Coordinate with OKC, Muskogee, Norman, and Tulsa groups
@@ -59,15 +61,15 @@
 
 ### Twitch Highlighting Team
 * Members
-  * Austin Keeton (lead), Jason Carpenter, Kimberly Collins, *need more volunteers*
-  * #twitch-highlighting?
+  * Austin Keeton (lead), Jason Carpenter, Kimberly Collins, **need more volunteers**
+  * #twitch-highlighting
 * Responsibilities
   * Manage highlighting on Techlahoma's Twitch channel and exporting/uploading to YouTube
   * Train volunteers (eventually would like to have one per group)
 
 ### YouTube Channel Management Team
 * Members
-  * Austin Keeton, Spencer Heckathorn, *need more volunteers*
+  * Austin Keeton, Spencer Heckathorn, **need more volunteers**
   * #youtube-channel-mgmt
 * Responsibilities
   * Set up Adsense

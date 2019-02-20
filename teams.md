@@ -1,6 +1,6 @@
 ### Broadcasting Committee
 * Members
-  * Kimberly Collins (chair), Aaron Krauss, Alex Adriaanse, Austin Keeton, Ava, Mike Mattice, Ryan Johnson
+  * Kimberly Collins (chair), Aaron Krauss, Alex Adriaanse, Austin Keeton, Ava, Kristin Garcia, Mike Mattice, Ryan Johnson
   * #broadcast-committee
   * @broadcastcommittee
 * Responsibilities

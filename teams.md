@@ -33,8 +33,9 @@
 
 ### OKC Stream Team
 * Members
-  * #ss46-ug-leaders
   * **need more volunteers**
+  * @okcstreamteam
+  * #ss46-ug-leaders
   * Volunteers who have been trained and are willing to stream meetups on a regular basis
   * User group leaders who have been trained and are willing to stream meetups but generally only for their own groups
 * Responsibilities
@@ -46,6 +47,7 @@
   * #norman-stream-team
 * Responsibilities
   * Stream Techlahoma meetups at Tom Love Innovation Hub to Twitch
+  * Simulcast Techlahoma meetups on Twitch in Norman
 
 ### Tulsa Stream Team
 * Members

@@ -36,14 +36,14 @@
   * **need more volunteers**
   * @okcstreamteam
   * [#ss46-ug-leaders](http://techlahoma.slack.com/messages/ss46-ug-leaders)
-  * Volunteers who have been trained and are willing to stream meetups on a regular basis
+  * Volunteers who have been trained and are willing to stream meetups they attend
   * User group leaders who have been trained and are willing to stream meetups but generally only for their own groups
 * Responsibilities
   * Stream Techlahoma meetups at StarSpace46 to Twitch
   * Manage Twitch chat during the stream
-	   * Moderate comments and block users when necessary
-	   * Post messages
-	   * Relay questions to speakers
+    * Moderate comments and block users when necessary
+    * Post messages
+    * Relay questions to speakers
 
 ### Norman Stream Team
 * Members

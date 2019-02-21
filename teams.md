@@ -68,6 +68,7 @@
   * Set up (auto) hosting
   * Coordinate Twitch Prime subscriptions with fundraising committee
   * Determine whether chatbot can/should be fixed (discussion in [#twitch-chatbot](http://techlahoma.slack.com/messages/twitch-chatbot) channel)
+  * Provide statistics on Twitch views and followers
 
 ### Twitch Highlighting Team
 * Members
@@ -85,3 +86,4 @@
   * Manage Adsense
   * Moderate and reply to comments
   * Handle video republishing policy
+  * Provide statistics on YouTube views and subscribers

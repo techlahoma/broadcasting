@@ -33,6 +33,7 @@
 ### Microphone
 * Replace the battery in the microphone
 * **Turn on microphone and check for input (moving green bar) in OBS client**
+    * If the green bar isn't moving, unplug the USB on the back of the mixer board and plug it back in.
     * Besides making sure that the microphone is unmuted in OBS, also mute any
       audio sources that you don't intend to record, which is typically
       everything except the microphone, unless the presentation has audio/video,
@@ -58,6 +59,7 @@
   user group leader doesn't have a preference 5 minutes usually works well)
 * Make sure countdown is up in live frame and start streaming
 * **Test the microphone and listen to the audio on Twitch**
+    * If no audio on Twitch, unplug the USB on the back of the mixer board and plug it back in.
 
 ### Ending the Stream
 * Switch to the *Ending* slide in OBS

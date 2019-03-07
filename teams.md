@@ -12,6 +12,13 @@
   * [Twitch Highlighting Team](#twitch-highlighting-team) - Manage highlighting and exporting to YouTube
   * [YouTube Channel Management Team](#youtube-channel-management-team) - Manage Techlahoma's YouTube channel
 
+### Automation Team
+* Members
+  * **need volunteers**
+* Responsibilities
+  * Automate parts of the streaming process to simplify it for volunteers
+  * Determine whether chatbot can/should be fixed (discussion in [#twitch-chatbot](http://techlahoma.slack.com/messages/twitch-chatbot) channel)
+
 ### OKC A/V Hardware Team
 * Members
   * Alex Adriaanse (lead), Aaron Krauss, Mike Mattice, Zach Gilliam
@@ -67,7 +74,6 @@
   * Help non-SS46 groups create Twitch channels
   * Set up (auto) hosting
   * Coordinate Twitch Prime subscriptions with fundraising committee
-  * Determine whether chatbot can/should be fixed (discussion in [#twitch-chatbot](http://techlahoma.slack.com/messages/twitch-chatbot) channel)
   * Provide statistics on Twitch views and followers
 
 ### Twitch Highlighting Team

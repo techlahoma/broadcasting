@@ -33,7 +33,7 @@
 ### OKC A/V Volunteer Management Team
 * Members
   * Aaron Krauss, Kimberly Collins, Ryan Johnson
-  * [#ss46-ug-leaders](http://techlahoma.slack.com/messages/ss46-ug-leaders)
+  * [#okc-av-volunteer-mgmt](https://techlahoma.slack.com/messages/okc-av-volunteer-mgmt)
 * Responsibilities
   * Coordinate with user group leaders, speakers, and stream team volunteers
   * Train volunteers (at least one per group) on streaming processes

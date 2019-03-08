@@ -12,9 +12,10 @@
   * [Twitch Highlighting Team](#twitch-highlighting-team) - Manage highlighting and exporting to YouTube
   * [YouTube Channel Management Team](#youtube-channel-management-team) - Manage Techlahoma's YouTube channel
 
-### Automation Team
+### OKC A/V Automation Team
 * Members
-  * **need volunteers**
+  * Alex Adriaanse, Aaron Krauss, Mike Mattice, **need more volunteers**
+  * [#okc-av-automation](https://techlahoma.slack.com/messages/okc-av-automation)
 * Responsibilities
   * Automate parts of the streaming process to simplify it for volunteers
   * Determine whether chatbot can/should be fixed (discussion in [#twitch-chatbot](http://techlahoma.slack.com/messages/twitch-chatbot) channel)

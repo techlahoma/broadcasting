@@ -4,6 +4,7 @@
   * [#content-creation](https://techlahoma.slack.com/messages/content-creation)
   * @broadcastcommittee
 * Responsibilities
+  * [Conference A/V Team](#conference-av-team) - Coordinate A/V for conferences
   * [OKC A/V Hardware Team](#okc-av-hardware-team) - Manage A/V equipment in StarSpace46 event center
   * [OKC A/V Volunteer Management Team](#okc-av-volunteer-management-team) - Coordinate streaming with user group leaders, speakers, and volunteers
   * [OKC Stream Team](#okc-stream-team) - Stream Techlahoma meetups at StarSpace46 to Twitch
@@ -11,6 +12,12 @@
   * [Twitch Channel Management Team](#twitch-channel-management-team) - Manage Techlahoma's Twitch channel
   * [Twitch Highlighting Team](#twitch-highlighting-team) - Manage highlighting and exporting to YouTube
   * [YouTube Channel Management Team](#youtube-channel-management-team) - Manage Techlahoma's YouTube channel
+
+### Conference A/V Team
+* Members
+  * Ava, Ben Van Treese, **need more volunteers**
+* Responsibilities
+  * Coordinate A/V for conferences with contractors and/or volunteers
 
 ### OKC A/V Automation Team
 * Members

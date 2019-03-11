@@ -70,8 +70,9 @@
 
 ### Tulsa Stream Team
 * Members
-  * Not enough interest to form a team yet
-  * **need more volunteers**
+  * Blixa Morgan, **need more volunteers**
+* Responsibilities
+  * Stream Techlahoma meetups in Tulsa
 
 ### Twitch Channel Management Team
 * Members

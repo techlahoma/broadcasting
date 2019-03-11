@@ -1,7 +1,7 @@
-### Broadcasting Committee
+### Content Creation Committee
 * Members
   * Kimberly Collins (chair), Aaron Krauss, Alex Adriaanse, Austin Keeton, Ava, Kristin Garcia, Mike Mattice, Ryan Johnson
-  * [#broadcast-committee](https://techlahoma.slack.com/messages/broadcast-committee)
+  * [#content-creation](https://techlahoma.slack.com/messages/content-creation)
   * @broadcastcommittee
 * Responsibilities
   * [OKC A/V Hardware Team](#okc-av-hardware-team) - Manage A/V equipment in StarSpace46 event center

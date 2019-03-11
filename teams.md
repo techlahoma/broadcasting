@@ -101,10 +101,11 @@
 
 ### YouTube Channel Management Team
 * Members
-  * Austin Keeton, Spencer Heckathorn, **need more volunteers**
+  * Austin Keeton, Spencer Heckathorn, Cierra Nease, **need more volunteers**
   * [#youtube-channel-mgmt](http://techlahoma.slack.com/messages/youtube-channel-mgmt)
 * Responsibilities
   * Manage Adsense
   * Moderate and reply to comments
   * Handle video republishing policy
   * Provide statistics on YouTube views and subscribers
+  * Create and update playlists

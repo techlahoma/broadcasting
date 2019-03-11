@@ -92,6 +92,12 @@
   * Manage highlighting on Techlahoma's Twitch channel and exporting/uploading to YouTube
   * Train volunteers (eventually would like to have one per group)
 
+### Workshop A/V Team
+* Members
+  * Not ready to form a team yet
+* Responsibilities
+  * Coordinate A/V for workshops with contractors and/or volunteers
+
 ### YouTube Channel Management Team
 * Members
   * Austin Keeton, Spencer Heckathorn, **need more volunteers**

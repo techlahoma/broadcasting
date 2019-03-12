@@ -18,6 +18,10 @@ Have a great question? The AV team would love to relay your question to the spea
 
 Want to get involved with the Techlahoma Community? Join us on Slack! Check out our Code of Conduct and request an invite here: techlahoma.org/spaces
 
+### YouTube:
+
+Did you know that Techlahoma has a YouTube channel? Subscribe to get notifications when we upload videos! https://www.youtube.com/techlahoma
+
 ### Ending Message:
 
 Thanks everyone for joining us today! We will be streaming again this [weekday], [month & date], with [user group name]: "[talk name] with [speaker name]"

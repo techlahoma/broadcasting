@@ -67,12 +67,16 @@
 * Responsibilities
   * Stream Techlahoma meetups at Tom Love Innovation Hub to Twitch
   * Simulcast Techlahoma meetups on Twitch in Norman
+* Goals
+  * Stream at least one meetup per month
 
 ### Tulsa Stream Team
 * Members
   * Blixa Morgan, **need more volunteers**
 * Responsibilities
   * Stream Techlahoma meetups in Tulsa
+* Goals
+  * Simulcast Techlahoma meetups in Tulsa
 
 ### Twitch Channel Management Team
 * Members
@@ -91,7 +95,9 @@
   * [#twitch-highlighting](http://techlahoma.slack.com/messages/twitch-highlighting)
 * Responsibilities
   * Manage highlighting on Techlahoma's Twitch channel and exporting/uploading to YouTube
-  * Train volunteers (eventually would like to have one per group)
+  * Train volunteers
+* Goals
+  * Have at least one trained volunteer per group
 
 ### Workshop A/V Team
 * Members
@@ -109,3 +115,5 @@
   * Handle video republishing policy
   * Provide statistics on YouTube views and subscribers
   * Create and update playlists
+* Goals
+  * Get enough subscribers to quality for Adsense

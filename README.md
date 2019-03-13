@@ -1,7 +1,9 @@
 # Broadcasting Documentation
 
-* [OKC Streaming Schedule](https://docs.google.com/spreadsheets/d/1Ga72YMOD5V038D_4GFYggbuVF-JDu3rOPxHHPaNHu-E/edit#gid=731419354)
-* [OKC Slides](https://docs.google.com/presentation/d/1qZkmUGUilxe-48N8nIuSnRpQB93I9bOfoYmlcqWbvzo/edit#slide=id.g4fd9ce8385_3_5)
+* [OKC Streaming Schedule](https://docs.google.com/spreadsheets/d/1Ga72YMOD5V038D_4GFYggbuVF-JDu3rOPxHHPaNHu-E)
+* [OKC Slides](https://docs.google.com/presentation/d/1qZkmUGUilxe-48N8nIuSnRpQB93I9bOfoYmlcqWbvzo)
+* [Speaker Form Responses](https://docs.google.com/spreadsheets/d/10d-1TowAgA2WIqUawxwet9GRmhd2XI8zKxREzxqOuyY/)
+* [Twitch Highlights](https://docs.google.com/spreadsheets/d/1cJqVigTtYIMWPtaYsagYzyYBV1EHO1HTTjpYIt_9Nag/)
 
 ## Instructions and Tips
 * Presenting

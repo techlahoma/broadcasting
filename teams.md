@@ -4,18 +4,22 @@
   * [#content-creation](https://techlahoma.slack.com/messages/content-creation)
   * @broadcastcommittee
 * Responsibilities
-  * [Conference A/V](#conference-av-team) - Coordinate A/V for conferences
-  * [Content Marketing](#content-marketing-team) - Coordinate with marketing committee
-  * [OKC A/V Automation](#okc-av-automation-team) - Manage A/V equipment in StarSpace46 event center
-  * [OKC A/V Hardware](#okc-av-hardware-team) - Manage A/V equipment in StarSpace46 event center
-  * [OKC A/V Volunteer Management](#okc-av-volunteer-management-team) - Coordinate streaming with user group leaders, speakers, and volunteers
-  * [OKC Stream Team](#okc-stream-team) - Stream Techlahoma meetups at StarSpace46 to Twitch
-  * [Norman Stream Team](#norman-stream-team) - Manage Techlahoma streaming and simulcasting in Norman
-  * [Tulsa Stream Team](#tulsa-stream-team) - Manage Techlahoma streaming and simulcasting in Tulsa
-  * [Twitch Channel Management](#twitch-channel-management-team) - Manage Techlahoma's Twitch channel
-  * [Twitch Highlighting](#twitch-highlighting-team) - Manage highlighting and exporting to YouTube
-  * [Workshop A/V](#workshop-av-team) - Coordinate A/V for workshops
-  * [YouTube Channel Management](#youtube-channel-management-team) - Manage Techlahoma's YouTube channel
+  * Support programs and committees through live streaming and video recording
+    * [Conference A/V](#conference-av-team) - Coordinate A/V for conferences
+    * [Content Marketing](#content-marketing-team) - Coordinate with marketing committee
+    * [Workshop A/V](#workshop-av-team) - Coordinate A/V for workshops
+  * Produce and manage video content
+    * [Twitch Channel Management](#twitch-channel-management-team) - Manage Techlahoma's Twitch channel
+    * [Twitch Highlighting](#twitch-highlighting-team) - Manage highlighting and exporting to YouTube
+    * [YouTube Channel Management](#youtube-channel-management-team) - Manage Techlahoma's YouTube channel
+  * Manage Techlahoma's A/V processes at StarSpace46
+    * [OKC A/V Automation](#okc-av-automation-team) - Manage A/V equipment in StarSpace46 event center
+    * [OKC A/V Hardware](#okc-av-hardware-team) - Manage A/V equipment in StarSpace46 event center
+    * [OKC A/V Volunteer Management](#okc-av-volunteer-management-team) - Coordinate streaming with user group leaders, speakers, and volunteers
+  * Coordinate with streaming volunteers
+    * [Norman Stream Team](#norman-stream-team) - Manage Techlahoma streaming and simulcasting in Norman
+    * [OKC Stream Team](#okc-stream-team) - Stream Techlahoma meetups at StarSpace46 to Twitch
+    * [Tulsa Stream Team](#tulsa-stream-team) - Manage Techlahoma streaming and simulcasting in Tulsa
 
 ### Conference A/V Team
 * Members

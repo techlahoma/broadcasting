@@ -4,15 +4,18 @@
   * [#content-creation](https://techlahoma.slack.com/messages/content-creation)
   * @broadcastcommittee
 * Responsibilities
-  * [Conference A/V Team](#conference-av-team) - Coordinate A/V for conferences
+  * [Conference A/V](#conference-av-team) - Coordinate A/V for conferences
   * [Content Marketing](#content-marketing-team) - Coordinate with marketing committee
-  * [OKC A/V Hardware Team](#okc-av-hardware-team) - Manage A/V equipment in StarSpace46 event center
-  * [OKC A/V Volunteer Management Team](#okc-av-volunteer-management-team) - Coordinate streaming with user group leaders, speakers, and volunteers
+  * [OKC A/V Automation](#okc-av-automation-team) - Manage A/V equipment in StarSpace46 event center
+  * [OKC A/V Hardware](#okc-av-hardware-team) - Manage A/V equipment in StarSpace46 event center
+  * [OKC A/V Volunteer Management](#okc-av-volunteer-management-team) - Coordinate streaming with user group leaders, speakers, and volunteers
   * [OKC Stream Team](#okc-stream-team) - Stream Techlahoma meetups at StarSpace46 to Twitch
-  * [Norman Stream Team](#norman-stream-team) - Stream Techlahoma meetups at Tom Love Innovation Hub to Twitch
-  * [Twitch Channel Management Team](#twitch-channel-management-team) - Manage Techlahoma's Twitch channel
-  * [Twitch Highlighting Team](#twitch-highlighting-team) - Manage highlighting and exporting to YouTube
-  * [YouTube Channel Management Team](#youtube-channel-management-team) - Manage Techlahoma's YouTube channel
+  * [Norman Stream Team](#norman-stream-team) - Manage Techlahoma streaming and simulcasting in Norman
+  * [Tulsa Stream Team](#tulsa-stream-team) - Manage Techlahoma streaming and simulcasting in Tulsa
+  * [Twitch Channel Management](#twitch-channel-management-team) - Manage Techlahoma's Twitch channel
+  * [Twitch Highlighting](#twitch-highlighting-team) - Manage highlighting and exporting to YouTube
+  * [Workshop A/V](#workshop-av-team) - Coordinate A/V for workshops
+  * [YouTube Channel Management](#youtube-channel-management-team) - Manage Techlahoma's YouTube channel
 
 ### Conference A/V Team
 * Members
@@ -38,7 +41,7 @@
 
 ### OKC A/V Hardware Team
 * Members
-  * Alex Adriaanse (lead), Aaron Krauss, Mike Mattice, Zach Gilliam
+  * Alex Adriaanse (lead), Aaron Krauss, Mike Mattice, Ryan Johnson, Zach Gilliam
   * [#okc-av-hardware](https://techlahoma.slack.com/messages/okc-av-hardware)
 * Responsibilities
   * Manage A/V equipment in StarSpace46 event center

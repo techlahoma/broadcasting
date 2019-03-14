@@ -66,9 +66,9 @@
 * ~Do `!end` command if in the Techlahoma Channel~ (These commands are currently not working.)
 * Click `Stop Streaming` and confirm that you want to stop the stream
 * Make sure mic is turned off
-* Charge the mic battery
+* Charge the mic battery if you didn't do that before the stream
 * Make sure camera is turned off and lens cap is on
-* Update the stream title and go live notification in the Twitch dashboard for the next scheduled broadcast
+* Update the stream title and go live notification in the Twitch dashboard for the [next scheduled broadcast](https://docs.google.com/spreadsheets/d/1Ga72YMOD5V038D_4GFYggbuVF-JDu3rOPxHHPaNHu-E/edit#gid=731419354)
 
 ### Things to know
 * The crowd doesn't have a mic! Ask the speaker to repeat questions before answering them.

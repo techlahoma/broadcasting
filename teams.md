@@ -1,10 +1,11 @@
 ### Content Creation Committee
 * Members
-  * Kimberly Collins (chair), Aaron Krauss, Alex Adriaanse, Austin Keeton, Ava, Kristin Garcia, Mike Mattice, Ryan Johnson
+  * Kimberly Collins (chair), Aaron Krauss, Alex Adriaanse, Austin Keeton, Kristin Garcia, Mike Mattice, Ryan Johnson
   * [#content-creation](https://techlahoma.slack.com/messages/content-creation)
   * @broadcastcommittee
 * Responsibilities
   * [Conference A/V Team](#conference-av-team) - Coordinate A/V for conferences
+  * [Content Marketing](#content-marketing-team) - Coordinate with marketing committee
   * [OKC A/V Hardware Team](#okc-av-hardware-team) - Manage A/V equipment in StarSpace46 event center
   * [OKC A/V Volunteer Management Team](#okc-av-volunteer-management-team) - Coordinate streaming with user group leaders, speakers, and volunteers
   * [OKC Stream Team](#okc-stream-team) - Stream Techlahoma meetups at StarSpace46 to Twitch
@@ -18,6 +19,14 @@
   * Ava, Ben Van Treese, **need more volunteers**
 * Responsibilities
   * Coordinate A/V for conferences with contractors and/or volunteers
+
+### Content Marketing Team
+* Members
+  * **need more volunteers**
+  * [#content-marketing](https://techlahoma.slack.com/messages/content-marketing)
+* Responsibilities
+  * Coordinate with the marketing committee to promote our content on Twitch and YouTube
+  * Create video content for the purpose of marketing, such as member interviews
 
 ### OKC A/V Automation Team
 * Members

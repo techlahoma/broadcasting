@@ -29,7 +29,7 @@
 
 ### Content Marketing Team
 * Members
-  * **need more volunteers**
+  * Cierra Nease, **need more volunteers**
   * [#content-marketing](https://techlahoma.slack.com/messages/content-marketing)
 * Responsibilities
   * Coordinate with the marketing committee to promote our content on Twitch and YouTube
@@ -37,7 +37,7 @@
 
 ### OKC A/V Automation Team
 * Members
-  * Alex Adriaanse, Aaron Krauss, Mike Mattice, **need more volunteers**
+  * Alex Adriaanse, Aaron Krauss, James Deaton, Mike Mattice, **need more volunteers**
   * [#okc-av-automation](https://techlahoma.slack.com/messages/okc-av-automation)
 * Responsibilities
   * Automate parts of the streaming process to simplify it for volunteers
@@ -75,10 +75,12 @@
     * Moderate comments and block users when necessary
     * Post messages
     * Relay questions to speakers
+* Goals
+  * Simulcast Techlahoma meetups at another location in Oklahoma City
 
 ### Norman Stream Team
 * Members
-  * Kristin Garcia (lead), Joe Matthews, Chris Tse, Austin Keeton, Chris Aguilar
+  * Kristin Garcia (lead), Joe Matthews, Chris Tse, Chris Aguilar
   * [#norman-stream-team](http://techlahoma.slack.com/messages/norman-stream-team)
 * Responsibilities
   * Stream Techlahoma meetups at Tom Love Innovation Hub to Twitch
@@ -110,7 +112,7 @@
 
 ### Twitch Highlighting Team
 * Members
-  * Austin Keeton (lead), Jason Carpenter, Kimberly Collins, **need more volunteers**
+  * Austin Keeton (lead), Cierra Nease, Jason Carpenter, Kimberly Collins, Mandi Howell
   * [#twitch-highlighting](http://techlahoma.slack.com/messages/twitch-highlighting)
 * Responsibilities
   * Manage highlighting on Techlahoma's Twitch channel and exporting/uploading to YouTube

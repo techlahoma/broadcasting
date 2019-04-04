@@ -84,7 +84,10 @@
   * Stream Techlahoma meetups at Tom Love Innovation Hub to Twitch
   * Simulcast Techlahoma meetups on Twitch in Norman
 * Goals
-  * Stream at least one meetup per month
+  * Stream at least one meetup per month 
+    * No stream created yet though we have created the overlays
+  * Create a Techlahoma south sub culture 
+    * currently 3 new people have attended past brown bag events
 
 ### Tulsa Stream Team
 * Members

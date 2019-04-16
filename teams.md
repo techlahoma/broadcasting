@@ -1,13 +1,12 @@
 ### Content Creation Committee
 * Members
-  * Kimberly Collins (chair), Aaron Krauss, Alex Adriaanse, Austin Keeton, Kristin Garcia, Mike Mattice, Ryan Johnson
+  * Kimberly Collins (chair), Aaron Krauss, Alex Adriaanse, Kristin Garcia, Mike Mattice, Ryan Johnson
   * [#content-creation](https://techlahoma.slack.com/messages/content-creation)
   * @broadcastcommittee
 * Responsibilities
   * Support programs and committees through live streaming and video recording
-    * [Conference A/V](#conference-av-team) - Coordinate A/V for conferences
+    * [Conference and Workshop A/V](#conference-av-team) - Coordinate A/V for conferences and workshops
     * [Content Marketing](#content-marketing-team) - Coordinate with marketing committee
-    * [Workshop A/V](#workshop-av-team) - Coordinate A/V for workshops
   * Produce and manage video content
     * [Twitch Channel Management](#twitch-channel-management-team) - Manage Techlahoma's Twitch channel
     * [Twitch Highlighting](#twitch-highlighting-team) - Manage highlighting and exporting to YouTube
@@ -21,11 +20,11 @@
     * [OKC Stream Team](#okc-stream-team) - Stream Techlahoma meetups at StarSpace46 to Twitch
     * [Tulsa Stream Team](#tulsa-stream-team) - Manage Techlahoma streaming and simulcasting in Tulsa
 
-### Conference A/V Team
+### Conference and Workshop A/V Team
 * Members
   * Ava, Ben Van Treese, **need more volunteers**
 * Responsibilities
-  * Coordinate A/V for conferences with contractors and/or volunteers
+  * Coordinate A/V for conferences and workshops with contractors and/or volunteers
 
 ### Content Marketing Team
 * Members
@@ -112,7 +111,7 @@
 
 ### Twitch Highlighting Team
 * Members
-  * Austin Keeton (lead), Cierra Nease, Jason Carpenter, Kimberly Collins, Mandi Howell
+  * Kimberly Collins (lead), Cierra Nease, Jason Carpenter, Mandi Howell
   * [#twitch-highlighting](http://techlahoma.slack.com/messages/twitch-highlighting)
 * Responsibilities
   * Manage highlighting on Techlahoma's Twitch channel and exporting/uploading to YouTube
@@ -120,15 +119,9 @@
 * Goals
   * Have at least one trained volunteer per group
 
-### Workshop A/V Team
-* Members
-  * Not ready to form a team yet
-* Responsibilities
-  * Coordinate A/V for workshops with contractors and/or volunteers
-
 ### YouTube Channel Management Team
 * Members
-  * Austin Keeton, Spencer Heckathorn, Cierra Nease, **need more volunteers**
+  * Kimberly Collins, Cierra Nease, James Deaton, Spencer Heckathorn, **need more volunteers**
   * [#youtube-channel-mgmt](http://techlahoma.slack.com/messages/youtube-channel-mgmt)
 * Responsibilities
   * Manage Adsense

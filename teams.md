@@ -28,7 +28,7 @@
 
 ### Content Marketing Team
 * Members
-  * Cierra Nease, **need more volunteers**
+  * Cierra Nease, Kristin Garcia, **need more volunteers**
   * [#content-marketing](https://techlahoma.slack.com/messages/content-marketing)
 * Responsibilities
   * Coordinate with the marketing committee to promote our content on Twitch and YouTube
@@ -54,7 +54,7 @@
 
 ### OKC A/V Volunteer Management Team
 * Members
-  * Aaron Krauss, Kimberly Collins, Ryan Johnson
+  * Aaron Krauss (lead), Kimberly Collins, Ryan Johnson, **need more volunteers**
   * [#okc-av-volunteer-mgmt](https://techlahoma.slack.com/messages/okc-av-volunteer-mgmt)
 * Responsibilities
   * Coordinate with user group leaders, speakers, and stream team volunteers
@@ -65,7 +65,7 @@
 * Members
   * **need more volunteers**
   * @okcstreamteam
-  * [#ss46-ug-leaders](http://techlahoma.slack.com/messages/ss46-ug-leaders)
+  * [#okc-stream-team](https://techlahoma.slack.com/messages/okc-stream-team)
   * Volunteers who have been trained and are willing to stream meetups they attend
   * User group leaders who have been trained and are willing to stream meetups but generally only for their own groups
 * Responsibilities
@@ -111,7 +111,7 @@
 
 ### Twitch Highlighting Team
 * Members
-  * Kimberly Collins (lead), Cierra Nease, Jason Carpenter, Mandi Howell
+  * Kimberly Collins (lead), Alex Ayon, Brandon Smith, Cierra Nease, Jason Carpenter, Mandi Howell
   * [#twitch-highlighting](http://techlahoma.slack.com/messages/twitch-highlighting)
 * Responsibilities
   * Manage highlighting on Techlahoma's Twitch channel and exporting/uploading to YouTube

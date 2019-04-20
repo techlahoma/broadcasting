@@ -12,7 +12,7 @@
     * [Twitch Highlighting](#twitch-highlighting-team) - Manage highlighting and exporting to YouTube
     * [YouTube Channel Management](#youtube-channel-management-team) - Manage Techlahoma's YouTube channel
   * Manage Techlahoma's A/V processes at StarSpace46
-    * [OKC A/V Automation](#okc-av-automation-team) - Manage A/V equipment in StarSpace46 event center
+    * [OKC A/V Automation](#okc-av-automation-team) - Automate parts of the streaming process
     * [OKC A/V Hardware](#okc-av-hardware-team) - Manage A/V equipment in StarSpace46 event center
     * [OKC A/V Volunteer Management](#okc-av-volunteer-management-team) - Coordinate streaming with user group leaders, speakers, and volunteers
   * Coordinate with streaming volunteers

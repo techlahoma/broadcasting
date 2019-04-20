@@ -28,7 +28,7 @@
 
 ### Content Marketing Team
 * Members
-  * Cierra Nease, Kristin Garcia, **need more volunteers**
+  * Cierra Nease, Dodzi, Kristin Garcia, Matt Woods, **need more volunteers**
   * [#content-marketing](https://techlahoma.slack.com/messages/content-marketing)
 * Responsibilities
   * Coordinate with the marketing committee to promote our content on Twitch and YouTube
@@ -36,7 +36,7 @@
 
 ### OKC A/V Automation Team
 * Members
-  * Alex Adriaanse, Aaron Krauss, James Deaton, Mike Mattice, **need more volunteers**
+  * Alex Adriaanse, Aaron Krauss, Dodzi, James Deaton, Mike Mattice, **need more volunteers**
   * [#okc-av-automation](https://techlahoma.slack.com/messages/okc-av-automation)
 * Responsibilities
   * Automate parts of the streaming process to simplify it for volunteers

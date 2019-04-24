@@ -36,7 +36,7 @@
 
 ### OKC A/V Automation Team
 * Members
-  * Alex Adriaanse, Aaron Krauss, Dodzi, James Deaton, Mike Mattice, **need more volunteers**
+  * Alex Adriaanse, Aaron Krauss, Brandon Smith, Dodzi, James Deaton, Mike Mattice
   * [#okc-av-automation](https://techlahoma.slack.com/messages/okc-av-automation)
 * Responsibilities
   * Automate parts of the streaming process to simplify it for volunteers
@@ -44,7 +44,7 @@
 
 ### OKC A/V Hardware Team
 * Members
-  * Alex Adriaanse (lead), Aaron Krauss, Mike Mattice, Ryan Johnson, Zach Gilliam
+  * Alex Adriaanse (lead), Aaron Krauss, Mike Mattice, Ryan Johnson, Victor Gramm, Zach Gilliam
   * [#okc-av-hardware](https://techlahoma.slack.com/messages/okc-av-hardware)
 * Responsibilities
   * Manage A/V equipment in StarSpace46 event center

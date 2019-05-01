@@ -12,9 +12,9 @@
   * [Quality Guidelines](Presenting/Stream-Quality-Guidelines.md)
   * [Changing Projector Input](Presenting/Changing-Projector-Input.md)
 * Streaming
-  * [Streaming Instructions](Recording/Streaming-Instructions.md)
-  * [Twitch Chat Messages](Recording/Twitch-chat-messages.md)
-  * [Messages to Display to Speakers](Recording/Speaker-Messages.md)
+  * [Streaming Instructions](Streaming/Streaming-Instructions.md)
+  * [Twitch Chat Messages](Streaming/Twitch-chat-messages.md)
+  * [Messages to Display to Speakers](Streaming/Speaker-Messages.md)
 * [Twitch Highlighting](TwitchHighlighting/Twitch&#32;Highlight.md)
 
 ## Volunteers

@@ -5,6 +5,7 @@
 * [OKC Slides (Present)](https://docs.google.com/presentation/d/e/2PACX-1vTFePu--LIc359hEpdRz1OVnZ-dc-agcw-DW_8UFEmqtQGu-rS7hK5D6YFkmGsAJ2JuEiKFMSp4_zXm/pub?start=true&loop=true&delayms=10000)
 * [Speaker Form Responses](https://docs.google.com/spreadsheets/d/10d-1TowAgA2WIqUawxwet9GRmhd2XI8zKxREzxqOuyY/)
 * [Twitch Highlights](https://docs.google.com/spreadsheets/d/1cJqVigTtYIMWPtaYsagYzyYBV1EHO1HTTjpYIt_9Nag/)
+* [User Groups and Streaming Volunteers](https://docs.google.com/spreadsheets/d/1VkqU4ukKIRQma8J0tLeQL7F2CQxODbeaTTItddvMDag/)
 
 ## Instructions and Tips
 * Presenting

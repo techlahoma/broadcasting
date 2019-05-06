@@ -3,6 +3,7 @@
 * [OKC Streaming Schedule](https://docs.google.com/spreadsheets/d/1Ga72YMOD5V038D_4GFYggbuVF-JDu3rOPxHHPaNHu-E)
 * [OKC Slides (Edit)](https://docs.google.com/presentation/d/1qZkmUGUilxe-48N8nIuSnRpQB93I9bOfoYmlcqWbvzo)
 * [OKC Slides (Present)](https://docs.google.com/presentation/d/e/2PACX-1vTFePu--LIc359hEpdRz1OVnZ-dc-agcw-DW_8UFEmqtQGu-rS7hK5D6YFkmGsAJ2JuEiKFMSp4_zXm/pub?start=true&loop=true&delayms=10000)
+* [Speaker Form](https://goo.gl/forms/8oFiRFWyK41JaSX33)
 * [Speaker Form Responses](https://docs.google.com/spreadsheets/d/10d-1TowAgA2WIqUawxwet9GRmhd2XI8zKxREzxqOuyY/)
 * [Twitch Highlights](https://docs.google.com/spreadsheets/d/1cJqVigTtYIMWPtaYsagYzyYBV1EHO1HTTjpYIt_9Nag/)
 * [User Groups and Streaming Volunteers](https://docs.google.com/spreadsheets/d/1VkqU4ukKIRQma8J0tLeQL7F2CQxODbeaTTItddvMDag/)

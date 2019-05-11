@@ -5,7 +5,7 @@
   * @broadcastcommittee
 * Responsibilities
   * Support programs and committees through live streaming and video recording
-    * [Conference and Workshop A/V](#conference-av-team) - Coordinate A/V for conferences and workshops
+    * [Conference and Workshop A/V](#conference-and-workshop-av-team) - Coordinate A/V for conferences and workshops
     * [Content Marketing](#content-marketing-team) - Coordinate with marketing committee
   * Produce and manage video content
     * [Twitch Channel Management](#twitch-channel-management-team) - Manage Techlahoma's Twitch channel
@@ -25,6 +25,8 @@
   * Ava, Ben Van Treese, **need more volunteers**
 * Responsibilities
   * Coordinate A/V for conferences and workshops with contractors and/or volunteers
+* Goals
+  * Create a checklist of our processes to provide to contractors for conferences and workshops
 
 ### Content Marketing Team
 * Members
@@ -47,7 +49,7 @@
   * Alex Adriaanse (lead), Aaron Krauss, Mike Mattice, Ryan Johnson, Victor Gramm, Zach Gilliam
   * [#okc-av-hardware](https://techlahoma.slack.com/messages/okc-av-hardware)
 * Responsibilities
-  * Manage A/V equipment in StarSpace46 event center
+  * Manage & maintain A/V equipment owned by Techlahoma
   * Recommend purchases
   * Train volunteers on how to use equipment
   * Inventory and/or label equipment
@@ -57,9 +59,12 @@
   * Aaron Krauss (lead), Kimberly Collins, Ryan Johnson, **need more volunteers**
   * [#okc-av-volunteer-mgmt](https://techlahoma.slack.com/messages/okc-av-volunteer-mgmt)
 * Responsibilities
-  * Coordinate with user group leaders, speakers, and stream team volunteers
-  * Train volunteers (at least one per group) on streaming processes
+  * Provide A/V guidance to user group leaders and speakers
+  * Train & certify A/V volunteers
   * Document processes
+* Goals
+  * For each user group with streamed meetups, train at least one volunteer on streaming
+  * For each user group with streamed meetups, train at least one volunteer on highlighting Twitch broadcasts and exporting them to YouTube
 
 ### OKC Stream Team
 * Members
@@ -92,7 +97,7 @@
 
 ### Tulsa Stream Team
 * Members
-  * Blixa Morgan, **need more volunteers**
+  * Blixa Morgan, Carlos Moreno, **need more volunteers**
 * Responsibilities
   * Stream Techlahoma meetups in Tulsa
 * Goals
@@ -103,11 +108,12 @@
   * Matthew Williams (lead), Blixa Morgan, Kimberly Collins, **need more volunteers**
   * [#twitch-channel-mgmt](http://techlahoma.slack.com/messages/twitch-channel-mgmt)
 * Responsibilities
+  * Manage Techlahoma's Twitch channel, including quality assurance and content innovation
   * Coordinate with OKC, Muskogee, Norman, and Tulsa groups
-  * Help non-SS46 groups create Twitch channels
-  * Set up (auto) hosting
+  * Help non-SS46 groups create Twitch channels and set up (auto) hosting
   * Coordinate Twitch Prime subscriptions with fundraising committee
   * Provide statistics on Twitch views and followers
+  * Upload and schedule Twitch premieres
 
 ### Twitch Highlighting Team
 * Members
@@ -118,6 +124,7 @@
   * Train volunteers
 * Goals
   * Have at least one trained volunteer per group
+  * Ensure publishing of all event videos to YouTube within 2 weeks of Twitch broadcast
 
 ### YouTube Channel Management Team
 * Members
@@ -129,5 +136,6 @@
   * Handle video republishing policy
   * Provide statistics on YouTube views and subscribers
   * Create and update playlists
+  * Post videos captured from Techlahoma events and for marketing to YouTube
 * Goals
-  * Get enough subscribers to quality for Adsense
+  * Increase YouTube subscribers to 1000

@@ -14,15 +14,18 @@
     * Speaker name: `<speaker name> | <user group name>`
 
 ### Twitch
-* Set title on dashboard: `Title - Speaker Name: Group Name`
-* Set channel to Category: `Science & Technology`
-    * If there is a popular group that is more applicable, change to that instead
-* Set Tags appropriately. Recommended: `Educational`, `Software Development`, `Tutorial`, `Web Development`
-    * If there are more applicable [Tags](https://help.twitch.tv/customer/portal/articles/2956216-available-tags) in future, adjust Tags accordingly
+* Open [dashboard](https://www.twitch.tv/techlahoma/dashboard/live): 
+  * Set Title: `Title - Speaker Name: Group Name`
+  * Set Go Live Notification: `Group Name` is live on Twitch!
+  * Set Category: `Science & Technology`
+    * If there is a popular category that is more applicable, change to that instead
+  * Set Tags appropriately. 
+    * Recommended: `Educational`, `Software Development`, `Tutorial`, `Web Development`
+    * If there are more applicable [Tags](https://help.twitch.tv/customer/portal/articles/2956216-available-tags) in future, adjust  accordingly
     * `3D Printing`, `Engineering`, and `Robotics` may apply for OKC OSH
     * `Design` and `Graphic Design`, especially for OKC Design Tech
     * `Game Development` for OK Game Devs
-* Confirm Language: `English`
+  * Confirm Language: `English`
 
 ### Camera
 * Turn on camera and remove lens cap

@@ -42,7 +42,7 @@ Use the title from the [Highlight List](https://docs.google.com/spreadsheets/d/1
 
 For the Description, see if one is provided by the speaker in the [Speaker Form Responses](https://docs.google.com/spreadsheets/d/10d-1TowAgA2WIqUawxwet9GRmhd2XI8zKxREzxqOuyY/). If so, it's just a copy + paste, and you know it's correct. This is the preferred way to go. Include the `Summary/Abstract/Outline`, `Speaker's Bio`, and `Links to Share`.
 
-Otherwise, try to find the event on Meetup.com and use any details provided there.
+Otherwise, try to find the event on Meetup.com and use any details provided there. The meetup link should be in the [streaming schedule](https://docs.google.com/spreadsheets/d/1Ga72YMOD5V038D_4GFYggbuVF-JDu3rOPxHHPaNHu-E/edit#gid=537074142)
 
 ![image](https://user-images.githubusercontent.com/954596/32418141-e38ceb7e-c229-11e7-8aee-db87bc569737.png)
 

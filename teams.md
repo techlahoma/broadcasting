@@ -22,15 +22,15 @@
 
 ### Conference and Workshop A/V Team
 * Members
-  * Ava, Ben Van Treese, **need more volunteers**
+  * Ava Gates, Ben Van Treese, **need more volunteers**
 * Responsibilities
   * Coordinate A/V for conferences and workshops with contractors and/or volunteers
 * Goals
-  * Create a checklist of our processes to provide to contractors for conferences and workshops
+  * Create a checklist of our processes to provide to contractors and volunteers for conferences and workshops
 
 ### Content Marketing Team
 * Members
-  * Cierra Nease, Dodzi, Kristin Garcia, Matt Woods, **need more volunteers**
+  * Cierra Nease, Dodzi Dzakuma, Kristin Garcia, Matt Woods, **need more volunteers**
   * [#content-marketing](https://techlahoma.slack.com/messages/content-marketing)
 * Responsibilities
   * Coordinate with the marketing committee to promote our content on Twitch and YouTube
@@ -38,7 +38,7 @@
 
 ### OKC A/V Automation Team
 * Members
-  * Alex Adriaanse, Aaron Krauss, Brandon Smith, Dodzi, James Deaton, Mike Mattice
+  * Alex Adriaanse, Aaron Krauss, Brandon Smith, Dodzi Dzakuma, James Deaton, Kenneth V, Mike Mattice
   * [#okc-av-automation](https://techlahoma.slack.com/messages/okc-av-automation)
 * Responsibilities
   * Automate parts of the streaming process to simplify it for volunteers
@@ -117,7 +117,7 @@
 
 ### Twitch Highlighting Team
 * Members
-  * Kimberly Collins (lead), Alex Ayon, Brandon Smith, Cierra Nease, Jason Carpenter, Mandi Howell
+  * Kimberly Collins (lead), Alex Ayon, Brandon Smith, Cierra Nease, Jason Carpenter, Kenneth V, Mandi Howell, Sam Mauer
   * [#twitch-highlighting](http://techlahoma.slack.com/messages/twitch-highlighting)
 * Responsibilities
   * Manage highlighting on Techlahoma's Twitch channel and exporting/uploading to YouTube

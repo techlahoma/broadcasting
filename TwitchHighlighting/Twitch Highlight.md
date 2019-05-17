@@ -28,6 +28,7 @@ The following procedures outline the creation of a Twitch highlight:
 1. Set the **Start** and **End** times according to the beginning and end of the talk itself.  
 ![Highlighter Menu](https://raw.githubusercontent.com/techlahoma/broadcasting/master/TwitchHighlighting/Highlighter%20Menu.PNG)  
 *Exclude the "dead time" (timer, introduction, etc) before and after the talk. Use your best judgment for any awkward time before the talk begins or during the Q&A.*
+
 2. Click **Publish Highlights**.
 
 ## Editing Highlight Information 
@@ -41,11 +42,11 @@ The following procedures outline the creation of a Twitch highlight:
 *Use the title from the [Highlight List](https://docs.google.com/spreadsheets/d/1cJqVigTtYIMWPtaYsagYzyYBV1EHO1HTTjpYIt_9Nag). The title must be less than 100 characters, or the export to YouTube will fail.*
 
 4. Provide a Description:   
-See if one is provided by the speaker in the [Speaker Form Responses](https://docs.google.com/spreadsheets/d/10d-1TowAgA2WIqUawxwet9GRmhd2XI8zKxREzxqOuyY/). If so, just a copy + paste. This is the preferred way to go. Include the `Summary/Abstract/Outline`, `Speaker's Bio`, and `Links to Share`.
+See if one is provided by the speaker in the [Speaker Form Responses](https://docs.google.com/spreadsheets/d/10d-1TowAgA2WIqUawxwet9GRmhd2XI8zKxREzxqOuyY/). If so, just a copy + paste. This is the preferred way to go. Include the `Summary/Abstract/Outline`, `Speaker's Bio`, and `Links to Share`.  
+  
+   Otherwise, try to find the event on Meetup.com and use any details provided there. The meetup link should be in the [streaming schedule](https://docs.google.com/spreadsheets/d/1Ga72YMOD5V038D_4GFYggbuVF-JDu3rOPxHHPaNHu-E/edit#gid=537074142)
 
-Otherwise, try to find the event on Meetup.com and use any details provided there. The meetup link should be in the [streaming schedule](https://docs.google.com/spreadsheets/d/1Ga72YMOD5V038D_4GFYggbuVF-JDu3rOPxHHPaNHu-E/edit#gid=537074142)
-
-![image](https://user-images.githubusercontent.com/954596/32418141-e38ceb7e-c229-11e7-8aee-db87bc569737.png)
+   ![image](https://user-images.githubusercontent.com/954596/32418141-e38ceb7e-c229-11e7-8aee-db87bc569737.png)
 
 5. The category may vary, but **`Programming`** is a safe bet.
 

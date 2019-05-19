@@ -7,6 +7,7 @@
   * Support programs and committees through live streaming and video recording
     * [Conference and Workshop A/V](#conference-and-workshop-av-team) - Coordinate A/V for conferences and workshops
     * [Content Marketing](#content-marketing-team) - Coordinate with marketing committee
+    * [Fundraising Content](#fundraising-content-team) - Coordinate with fundraising committee
   * Produce and manage video content
     * [Twitch Channel Management](#twitch-channel-management-team) - Manage Techlahoma's Twitch channel
     * [Twitch Highlighting](#twitch-highlighting-team) - Manage highlighting and exporting to YouTube
@@ -30,15 +31,23 @@
 
 ### Content Marketing Team
 * Members
-  * Cierra Nease, Dodzi Dzakuma, Kristin Garcia, Matt Woods, **need more volunteers**
+  * Carlos Moreno, Dodzi Dzakuma, Kristin Garcia, Matt Woods, **need more volunteers**
   * [#content-marketing](https://techlahoma.slack.com/messages/content-marketing)
 * Responsibilities
   * Coordinate with the marketing committee to promote our content on Twitch and YouTube
   * Create video content for the purpose of marketing, such as member interviews
 
+### Fundraising Content Team
+* Members
+  * Aaron Krauss, James Deaton, Kimberly Collins, Kristin Garcia, Lucas Watson
+  * [#fundraising-content](https://techlahoma.slack.com/messages/fundraising-content)
+* Responsibilities
+  * Raise funds for A/V equipment
+  * Manage Twitch stream fundraising
+
 ### OKC A/V Automation Team
 * Members
-  * Alex Adriaanse, Aaron Krauss, Brandon Smith, Dodzi Dzakuma, James Deaton, Kenneth V, Mike Mattice
+  * Aaron Krauss, Alex Adriaanse, Alex Ayon, Brandon Smith, David Brockus, Dodzi Dzakuma, James Deaton, Kenneth V, Mike Mattice
   * [#okc-av-automation](https://techlahoma.slack.com/messages/okc-av-automation)
 * Responsibilities
   * Automate parts of the streaming process to simplify it for volunteers
@@ -46,7 +55,7 @@
 
 ### OKC A/V Hardware Team
 * Members
-  * Alex Adriaanse (lead), Aaron Krauss, Mike Mattice, Ryan Johnson, Victor Gramm, Zach Gilliam
+  * Alex Adriaanse (lead), Aaron Krauss, Lawrence Kincheloe, Mike Mattice, Ryan Johnson, Victor Gramm, Zach Gilliam
   * [#okc-av-hardware](https://techlahoma.slack.com/messages/okc-av-hardware)
 * Responsibilities
   * Manage & maintain A/V equipment owned by Techlahoma
@@ -56,7 +65,7 @@
 
 ### OKC A/V Volunteer Management Team
 * Members
-  * Aaron Krauss (lead), Kimberly Collins, Ryan Johnson, **need more volunteers**
+  * Aaron Krauss (lead), Brandon Smith, Ryan Johnson, **need more volunteers**
   * [#okc-av-volunteer-mgmt](https://techlahoma.slack.com/messages/okc-av-volunteer-mgmt)
 * Responsibilities
   * Provide A/V guidance to user group leaders and speakers
@@ -105,7 +114,7 @@
 
 ### Twitch Channel Management Team
 * Members
-  * Matthew Williams (lead), Blixa Morgan, Kimberly Collins, **need more volunteers**
+  * Blixa Morgan, Brandon Smith, David Brockus, Kenneth V, **need more volunteers**
   * [#twitch-channel-mgmt](http://techlahoma.slack.com/messages/twitch-channel-mgmt)
 * Responsibilities
   * Manage Techlahoma's Twitch channel, including quality assurance and content innovation
@@ -128,7 +137,7 @@
 
 ### YouTube Channel Management Team
 * Members
-  * Kimberly Collins, Cierra Nease, James Deaton, Spencer Heckathorn, **need more volunteers**
+  * Brandon Smith, Dodzi Dzakuma, James Deaton, **need more volunteers**
   * [#youtube-channel-mgmt](http://techlahoma.slack.com/messages/youtube-channel-mgmt)
 * Responsibilities
   * Manage Adsense

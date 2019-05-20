@@ -34,7 +34,7 @@
   * Carlos Moreno, Dodzi Dzakuma, Kristin Garcia, Matt Woods, **need more volunteers**
   * [#content-marketing](https://techlahoma.slack.com/messages/content-marketing)
 * Responsibilities
-  * Coordinate with the marketing committee to promote our content on Twitch and YouTube
+  * Coordinate with the marketing committee to promote our Twitch and YouTube content
   * Create video content for the purpose of marketing, such as member interviews
 
 ### Fundraising Content Team
@@ -65,7 +65,7 @@
 
 ### OKC A/V Volunteer Management Team
 * Members
-  * Aaron Krauss (lead), Brandon Smith, Ryan Johnson, **need more volunteers**
+  * Aaron Krauss (lead), Ryan Johnson, **need more volunteers**
   * [#okc-av-volunteer-mgmt](https://techlahoma.slack.com/messages/okc-av-volunteer-mgmt)
 * Responsibilities
   * Provide A/V guidance to user group leaders and speakers
@@ -114,19 +114,18 @@
 
 ### Twitch Channel Management Team
 * Members
-  * Blixa Morgan, Brandon Smith, David Brockus, Kenneth V, **need more volunteers**
+  * Blixa Morgan, David Brockus, Kenneth V, **need more volunteers**
   * [#twitch-channel-mgmt](http://techlahoma.slack.com/messages/twitch-channel-mgmt)
 * Responsibilities
   * Manage Techlahoma's Twitch channel, including quality assurance and content innovation
-  * Coordinate with OKC, Muskogee, Norman, and Tulsa groups
+  * Coordinate Twitch streaming with OKC, Muskogee, Norman, and Tulsa groups
   * Help non-SS46 groups create Twitch channels and set up (auto) hosting
-  * Coordinate Twitch Prime subscriptions with fundraising committee
   * Provide statistics on Twitch views and followers
   * Upload and schedule Twitch premieres
 
 ### Twitch Highlighting Team
 * Members
-  * Kimberly Collins (lead), Alex Ayon, Brandon Smith, Cierra Nease, Jason Carpenter, Kenneth V, Mandi Howell, Sam Mauer
+  * Kimberly Collins (lead), Alex Ayon, Brandon Smith, Jason Carpenter, Kenneth V, Mandi Howell, Sam Mauer
   * [#twitch-highlighting](http://techlahoma.slack.com/messages/twitch-highlighting)
 * Responsibilities
   * Manage highlighting on Techlahoma's Twitch channel and exporting/uploading to YouTube

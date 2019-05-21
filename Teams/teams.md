@@ -64,8 +64,9 @@
   * Inventory and/or label equipment
 
 ### OKC A/V Volunteer Management Team
+* [Docs](https://github.com/techlahoma/broadcasting/tree/master/Teams/AVVolunteerMgmt)
 * Members
-  * Aaron Krauss (lead), Ryan Johnson, **need more volunteers**
+  * Aaron Krauss (lead), Ryan Johnson, Brandon Smith, **need more volunteers**
   * [#okc-av-volunteer-mgmt](https://techlahoma.slack.com/messages/okc-av-volunteer-mgmt)
 * Responsibilities
   * Provide A/V guidance to user group leaders and speakers

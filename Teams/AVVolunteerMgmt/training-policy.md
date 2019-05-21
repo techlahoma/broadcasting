@@ -1,5 +1,5 @@
-# Techlahoma AV Volunteer Management Policies
-—
+Techlahoma AV Volunteer Management Policies
+---
 
 ## Training New Volunteers
 

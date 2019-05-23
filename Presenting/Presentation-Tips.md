@@ -24,6 +24,7 @@
   * Assume 960x700 is a safe slide size.
   * Dark blues are hard to see for font.
   * Restrict 'fancy' fonts to headers unless the text is very large.
+  * The bottom right corner of your slides will be overlapped by the webcam overlay on the Twitch stream. Please leave space.
   * If your slide expresses multiple ideas, break it apart into more slides. Err on the side of being too sparse rather than too busy.
   * Disable blue light reduction tools like [Flux](https://justgetflux.com/).
   * Magnify is useful for small text or GUI's, especially when giving demos. For Mac OS, go to accessibility then zoom. For windows, search magnify and make sure the views is set to lens. Know the hotkeys if you plan to use magnify extensively.

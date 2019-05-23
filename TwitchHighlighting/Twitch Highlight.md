@@ -48,7 +48,12 @@ See if one is provided by the speaker in the [Speaker Form Responses](https://do
 
    ![image](https://user-images.githubusercontent.com/954596/32418141-e38ceb7e-c229-11e7-8aee-db87bc569737.png)
 
-5. The category may vary, but **`Programming`** is a safe bet.
+   Twitch allows Markdown in their description, but when exporting to youtube, this markdown will be rendered as plain text.  Links however that follow the format https://www.XXXX.com will render correctly in the Youtube Description as a link instead of plain text. 
+> *Note: a link needs to start with 'https://'*
+   
+   Make sure there is a blank line as the final line of the Description. The export process will append "--See us on twitch at http://www.twitch.tv./techlahoma" to the final line and you need a linebreak to match the above description's formatting 
+   
+5. The category most applicable to Twitch is now **`Science & Technology`**.
 
 6. Click **Save Changes**.
 
@@ -56,7 +61,7 @@ See if one is provided by the speaker in the [Speaker Form Responses](https://do
 
 ## Exporting to YouTube
 
-Don't do this within 24 hours of the original broadcast. If the talk was less than 24 hours ago, just create the highlight and mark `Need to Export?` as `yes` in the [Highlight List](https://docs.google.com/spreadsheets/d/1cJqVigTtYIMWPtaYsagYzyYBV1EHO1HTTjpYIt_9Nag).
+Don't Export a highlight within 24 hours of the original broadcast as per agreement with Twitch. If the talk was less than 24 hours ago, just create the highlight and mark `Need to Export?` as `yes` in the [Highlight List](https://docs.google.com/spreadsheets/d/1cJqVigTtYIMWPtaYsagYzyYBV1EHO1HTTjpYIt_9Nag).
 
 Add as many tags/keywords as possible when exporting to YouTube. This is how people will find the videos. Sometimes speakers provide them in the `Keyword List` in the [Speaker Form Responses](https://docs.google.com/spreadsheets/d/10d-1TowAgA2WIqUawxwet9GRmhd2XI8zKxREzxqOuyY/).
 
@@ -67,13 +72,14 @@ For the tags, you'll always include a few things:
 * A very clear keyword or set of keywords for the content. ( `Bootstrap, Portfolio Site` )
 * Anything else highly relevant.
 
-Make sure you set the video to public not private. Do not break the video into segments.
+Make sure you set the video to public not private. 
+Do not break the video into segments.
  
-> If you have access to the YouTube channel, add the videos to the relevant playlists (month, lightning talks, etc).
+> If you have access to the YouTube channel, add the videos to the relevant playlists (month, lightning talks, etc) and change Youtube Category to 'Science & Technology' from 'Gaming'. If you do not have access, mark the corresponding column in [Highlight List](https://docs.google.com/spreadsheets/d/1cJqVigTtYIMWPtaYsagYzyYBV1EHO1HTTjpYIt_9Nag).
 
 ### Finally
 
 For the `Need to Export?` column in the [Highlight List](https://docs.google.com/spreadsheets/d/1cJqVigTtYIMWPtaYsagYzyYBV1EHO1HTTjpYIt_9Nag):
 * If the video appears on [Techlahoma's YouTube channel](https://youtube.com/techlahoma), enter `no`. 
 * If you're not able to export to YouTube for any reason, enter `yes`.
-* If you give up on waiting for it to show up on YouTube, leave it blank.
+* If you give up on waiting for it to show up on YouTube, enter 'Exporting'.

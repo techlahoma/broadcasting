@@ -21,7 +21,7 @@
     * If there is a popular category that is more applicable, change to that instead
   * Set Tags appropriately. 
     * Recommended: `Educational`, `Software Development`, `Tutorial`, `Web Development`
-    * If there are more applicable [Tags](https://help.twitch.tv/customer/portal/articles/2956216-available-tags) in future, adjust  accordingly
+    * If there are more applicable [Tags](https://www.twitch.tv/directory/all/tags) in future, adjust  accordingly
     * `3D Printing`, `Engineering`, and `Robotics` may apply for OKC OSH
     * `Design` and `Graphic Design`, especially for OKC Design Tech
     * `Game Development` for OK Game Devs
@@ -63,6 +63,10 @@
 * Make sure countdown is up in live frame and start streaming
 * **Test the microphone and listen to the audio on Twitch**
     * If no audio on Twitch, unplug the USB on the back of the mixer board and plug it back in.
+
+### Twitch Chat
+* During the meetup, post [messages](https://okjed.shinyapps.io/streamingtextstrings/) in the chat every few minutes.
+* If there are questions, relay them to the speaker.
 
 ### Ending the Stream
 * Switch to the *Ending* slide in OBS

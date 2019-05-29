@@ -69,7 +69,8 @@ For the tags, you'll always include a few things:
 * `Techlahoma`
 * The group's name
 * The speaker's name
-* A very clear keyword or set of keywords for the content. ( `Bootstrap, Portfolio Site` )
+* A very clear keyword or set of keywords and phrases, separated by commas and without hashtags, describing the content. ( `Bootstrap, Creating a Portfolio Site` )
+> ![Youtube Thumbnail and Tag Dashboard](https://raw.githubusercontent.com/techlahoma/broadcasting/master/TwitchHighlighting/Youtube-TagList.png)
 * Anything else highly relevant.
 
 Make sure you set the video to public not private. 

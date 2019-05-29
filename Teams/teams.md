@@ -1,6 +1,6 @@
 ### Content Creation Committee
 * Members
-  * Kimberly Collins (chair), Aaron Krauss, Alex Adriaanse, Kristin Garcia, Mike Mattice, Ryan Johnson
+  * Kimberly Collins (chair), James Deaton (co-chair), Aaron Krauss, Alex Adriaanse, Kristin Garcia, Mike Mattice, Ryan Johnson
   * [#content-creation](https://techlahoma.slack.com/messages/content-creation)
   * @broadcastcommittee
 * Responsibilities
@@ -31,7 +31,7 @@
 
 ### Content Marketing Team
 * Members
-  * Carlos Moreno, Dodzi Dzakuma, Kristin Garcia, Matt Woods, **need more volunteers**
+  * Carlos Moreno, Dodzi Dzakuma, Kristin Garcia, Matt Woods, Stephanie Purvis, **need more volunteers**
   * [#content-marketing](https://techlahoma.slack.com/messages/content-marketing)
 * Responsibilities
   * Coordinate with the marketing committee to promote our Twitch and YouTube content
@@ -39,7 +39,7 @@
 
 ### Fundraising Content Team
 * Members
-  * Aaron Krauss, James Deaton, Kimberly Collins, Kristin Garcia, Lucas Watson
+  * Aaron Krauss, James Deaton, Kristin Garcia, Lucas Watson
   * [#fundraising-content](https://techlahoma.slack.com/messages/fundraising-content)
 * Responsibilities
   * Raise funds for A/V equipment
@@ -137,7 +137,7 @@
 
 ### YouTube Channel Management Team
 * Members
-  * Brandon Smith, Dodzi Dzakuma, James Deaton, **need more volunteers**
+  * Brandon Smith, Dodzi Dzakuma, James Deaton, Stephanie Purvis, **need more volunteers**
   * [#youtube-channel-mgmt](http://techlahoma.slack.com/messages/youtube-channel-mgmt)
 * Responsibilities
   * Manage Adsense

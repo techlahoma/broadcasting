@@ -9,17 +9,25 @@
     * [Content Marketing](#content-marketing-team) - Coordinate with marketing committee
     * [Fundraising Content](#fundraising-content-team) - Coordinate with fundraising committee
   * Produce and manage video content
+    * [A/V Automation](#av-automation-team) - Automate parts of the streaming process
     * [Twitch Channel Management](#twitch-channel-management-team) - Manage Techlahoma's Twitch channel
     * [Twitch Highlighting](#twitch-highlighting-team) - Manage highlighting and exporting to YouTube
     * [YouTube Channel Management](#youtube-channel-management-team) - Manage Techlahoma's YouTube channel
   * Manage Techlahoma's A/V processes at StarSpace46
-    * [OKC A/V Automation](#okc-av-automation-team) - Automate parts of the streaming process
     * [OKC A/V Hardware](#okc-av-hardware-team) - Manage A/V equipment in StarSpace46 event center
     * [OKC A/V Volunteer Management](#okc-av-volunteer-management-team) - Coordinate streaming with user group leaders, speakers, and volunteers
   * Coordinate with streaming volunteers
     * [Norman Stream Team](#norman-stream-team) - Manage Techlahoma streaming and simulcasting in Norman
     * [OKC Stream Team](#okc-stream-team) - Stream Techlahoma meetups at StarSpace46 to Twitch
     * [Tulsa Stream Team](#tulsa-stream-team) - Manage Techlahoma streaming and simulcasting in Tulsa
+
+### A/V Automation Team
+* Members
+  * Aaron Krauss, Alex Adriaanse, Alex Ayon, Brandon Smith, David Brockus, Dodzi Dzakuma, James Deaton, Kenneth V, Mike Mattice
+  * [#av-automation](https://techlahoma.slack.com/messages/av-automation)
+* Responsibilities
+  * Automate parts of the streaming process to simplify it for volunteers
+  * Determine whether chatbot can/should be fixed (discussion in [#twitch-chatbot](http://techlahoma.slack.com/messages/twitch-chatbot) channel)
 
 ### Conference and Workshop A/V Team
 * Members
@@ -44,14 +52,6 @@
 * Responsibilities
   * Raise funds for A/V equipment
   * Manage Twitch stream fundraising
-
-### OKC A/V Automation Team
-* Members
-  * Aaron Krauss, Alex Adriaanse, Alex Ayon, Brandon Smith, David Brockus, Dodzi Dzakuma, James Deaton, Kenneth V, Mike Mattice
-  * [#okc-av-automation](https://techlahoma.slack.com/messages/okc-av-automation)
-* Responsibilities
-  * Automate parts of the streaming process to simplify it for volunteers
-  * Determine whether chatbot can/should be fixed (discussion in [#twitch-chatbot](http://techlahoma.slack.com/messages/twitch-chatbot) channel)
 
 ### OKC A/V Hardware Team
 * Members

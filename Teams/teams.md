@@ -2,12 +2,13 @@
 * Members
   * Kimberly Collins (chair), James Deaton (co-chair), Aaron Krauss, Alex Adriaanse, Kristin Garcia, Mike Mattice, Ryan Johnson
   * [#content-creation](https://techlahoma.slack.com/messages/content-creation)
-  * @broadcastcommittee
+  * @contentcreation
 * Responsibilities
   * Support programs and committees through live streaming and video recording
     * [Conference and Workshop A/V](#conference-and-workshop-av-team) - Coordinate A/V for conferences and workshops
     * [Content Marketing](#content-marketing-team) - Coordinate with marketing committee
     * [Fundraising Content](#fundraising-content-team) - Coordinate with fundraising committee
+    * [Membership Content](#membership-content-team) - Coordinate with membership committee
   * Produce and manage video content
     * [A/V Automation](#av-automation-team) - Automate parts of the streaming process
     * [Twitch Channel Management](#twitch-channel-management-team) - Manage Techlahoma's Twitch channel
@@ -25,6 +26,7 @@
 * Members
   * Alex Ayon, Blixa Morgan, Brandon Smith, Dodzidenu Dzakuma, James Deaton, Kenneth V, Mike Mattice
   * [#av-automation](https://techlahoma.slack.com/messages/av-automation)
+  * @av-automation-team
 * Responsibilities
   * Automate parts of the streaming process to simplify it for volunteers
   * Determine whether chatbot can/should be fixed (discussion in [#twitch-chatbot](http://techlahoma.slack.com/messages/twitch-chatbot) channel)
@@ -41,6 +43,7 @@
 * Members
   * Carlos Moreno, Dodzidenu Dzakuma, Kristin Garcia, Matt Woods, Stephanie Purvis, **need more volunteers**
   * [#content-marketing](https://techlahoma.slack.com/messages/content-marketing)
+  * @contentmarketing
 * Responsibilities
   * Coordinate with the marketing committee to promote our Twitch and YouTube content
   * Create video content for the purpose of marketing, such as member interviews
@@ -53,10 +56,30 @@
   * Raise funds for A/V equipment
   * Manage Twitch stream fundraising
 
+### Membership Content Team
+* Members
+  * Carlos Moreno, Diana Varnes, **need more volunteers**
+  * [#membership-committee](https://techlahoma.slack.com/messages/membership-committee)
+* Responsibilities
+  * Create video content for the membership committee to use
+  * Coordinate A/V volunteer recruitment
+
+### Norman Stream Team
+* Members
+  * Kristin Garcia (lead), Joe Matthews, Chris Aguilar
+  * [#norman-stream-team](http://techlahoma.slack.com/messages/norman-stream-team)
+  * @normanstreamteam
+* Responsibilities
+  * Stream Techlahoma meetups at Tom Love Innovation Hub to Twitch
+  * Simulcast Techlahoma meetups on Twitch in Norman
+* Goals
+  * Stream at least one meetup per month
+
 ### OKC A/V Hardware Team
 * Members
   * Alex Adriaanse (lead), Lawrence Kincheloe, Mike Mattice, Victor Gramm, Zach Gilliam
   * [#okc-av-hardware](https://techlahoma.slack.com/messages/okc-av-hardware)
+  * @okc-av-hardware-team
 * Responsibilities
   * Manage & maintain A/V equipment owned by Techlahoma
   * Recommend purchases
@@ -68,6 +91,7 @@
 * Members
   * Aaron Krauss (lead), Brandon Smith, **need more volunteers**
   * [#okc-av-volunteer-mgmt](https://techlahoma.slack.com/messages/okc-av-volunteer-mgmt)
+  * @okcavvolunteermgmt
 * Responsibilities
   * Provide A/V guidance to user group leaders and speakers
   * Train & certify A/V volunteers
@@ -94,19 +118,11 @@
 * Goals
   * Simulcast Techlahoma meetups at another location in Oklahoma City
 
-### Norman Stream Team
-* Members
-  * Kristin Garcia (lead), Joe Matthews, Chris Aguilar
-  * [#norman-stream-team](http://techlahoma.slack.com/messages/norman-stream-team)
-* Responsibilities
-  * Stream Techlahoma meetups at Tom Love Innovation Hub to Twitch
-  * Simulcast Techlahoma meetups on Twitch in Norman
-* Goals
-  * Stream at least one meetup per month
-
 ### Tulsa Stream Team
 * Members
   * Blixa Morgan, Carlos Moreno, **need more volunteers**
+  * [#tulsastreamteam](http://techlahoma.slack.com/messages/tulsastreamteam)
+  * @tulsa-stream-team
 * Responsibilities
   * Stream Techlahoma meetups in Tulsa
 * Goals
@@ -116,6 +132,7 @@
 * Members
   * Blixa Morgan, Dodzidenu Dzakuma, Kenneth V, **need more volunteers**
   * [#twitch-channel-mgmt](http://techlahoma.slack.com/messages/twitch-channel-mgmt)
+  * @twitchteam
 * Responsibilities
   * Manage Techlahoma's Twitch channel, including quality assurance and content innovation
   * Coordinate Twitch streaming with OKC, Muskogee, Norman, and Tulsa groups
@@ -125,8 +142,9 @@
 
 ### Twitch Highlighting Team
 * Members
-  * Kimberly Collins (lead), Alex Ayon, Brandon Smith, Jason Carpenter, Kenneth V, Mandi Howell, Sam Mauer, **need more volunteers**
+  * Alex Ayon, Brandon Smith, Jason Carpenter, Kenneth V, Mandi Howell, Sam Mauer, **need more volunteers**
   * [#twitch-highlighting](http://techlahoma.slack.com/messages/twitch-highlighting)
+  * @twitchhighlighting
 * Responsibilities
   * Manage highlighting on Techlahoma's Twitch channel and exporting/uploading to YouTube
   * Train volunteers
@@ -138,6 +156,7 @@
 * Members
   * Brandon Smith, James Deaton, Stephanie Purvis, **need more volunteers**
   * [#youtube-channel-mgmt](http://techlahoma.slack.com/messages/youtube-channel-mgmt)
+  * @youtubeteam
 * Responsibilities
   * Manage Adsense
   * Moderate and reply to comments

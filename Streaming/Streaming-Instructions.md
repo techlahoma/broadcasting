@@ -6,15 +6,18 @@
 ### OBS
 * Change stream template (if applicable)
 * Change stream key (if applicable)
-* Set talk title and speaker name in OBS. **Do not do this by clicking on
-  anything on the slide itself!** Otherwise you may inadvertently move text
-  around, and it is hard to change back. Instead, double-click on the
-  appropriate element in the *Sources* section to change it. Suggested format:
+* Set talk title and speaker name in OBS.
+  * **Do not do this by clicking on anything on the slide itself!** 
+  * Clicking on the slide may inadvertently move text around, and it is hard to change back. 
+  * Instead, double-click on the appropriate element in the *Sources* section to change it. 
+  * Suggested format:
     * Talk title: `<title>`
     * Speaker name: `<speaker name> | <user group name>`
+  * Source for text: https://okjed.shinyapps.io/streamingtextstrings/
 
 ### Twitch
-* Open [dashboard](https://www.twitch.tv/techlahoma/dashboard/live): 
+* Open [dashboard](https://www.twitch.tv/techlahoma/dashboard/live):
+  * Source for text: https://okjed.shinyapps.io/streamingtextstrings/
   * Set Title: `Title - Speaker Name: Group Name`
   * Set Go Live Notification: `Group Name` is live on Twitch!
   * Set Category: `Science & Technology`
@@ -29,8 +32,9 @@
 
 ### Camera
 * Turn on camera and remove lens cap
-* Raise camera above crowd
-* Ask speaker to stand at the lectern and make sure he or she is in focus.
+* Raise camera above crowd if necessary
+* Ask speaker to stand at the lectern, and make sure he or she is in focus.
+* The top of the speaker's head should be at the top of the frame.
 * Make sure speakers are framed PRIOR to going live
 
 ### Microphone
@@ -44,19 +48,6 @@
 * Position the microphone so that it's close to and pointed towards the
   speaker's mouth
   
-### Slides
-* Turn on projectors and presenter screen
-* Request speakers turn off display tools like F.lux
-* Project slides to the appropriate Display # in OBS
-* Make sure slides are functioning and visible on both projector screens
-
-### Chromecast
-* Open Google Chrome 
-* Right click or go to the menu, then select `Cast`
-* Select `Cast to` and change the source to `desktop`
-* Select the screen showing the slides
-* **Unselect the share audio checkbox**
-
 ### Starting the Stream
 * Set start time in Snaz (generally 5-15 minutes after the meetup starts; if the
   user group leader doesn't have a preference 5 minutes usually works well)
@@ -64,25 +55,38 @@
 * **Test the microphone and listen to the audio on Twitch**
     * If no audio on Twitch, unplug the USB on the back of the mixer board and plug it back in.
 
+### Slides
+* Turn on projectors and presenter screen
+* Request speakers turn off display tools like F.lux
+* Project slides to the appropriate Display # in OBS
+* Make sure slides are functioning and visible on both projector screens
+
+### Chromecast (not used for now)
+* Open Google Chrome 
+* Right click or go to the menu, then select `Cast`
+* Select `Cast to` and change the source to `desktop`
+* Select the screen showing the slides
+* **Unselect the share audio checkbox**
+
 ### Twitch Chat
 * During the meetup, post [messages](https://okjed.shinyapps.io/streamingtextstrings/) in the chat every few minutes.
 * If there are questions, relay them to the speaker.
 
 ### Ending the Stream
 * Switch to the *Ending* slide in OBS
-* ~Do `!end` command if in the Techlahoma Channel~ (These commands are currently not working.)
 * Click `Stop Streaming` and confirm that you want to stop the stream
 * Make sure mic is turned off
 * Charge the mic battery if you didn't do that before the stream
 * Make sure camera is turned off and lens cap is on
-* Update the stream title and go live notification in the Twitch dashboard for the [next scheduled broadcast](https://docs.google.com/spreadsheets/d/1Ga72YMOD5V038D_4GFYggbuVF-JDu3rOPxHHPaNHu-E/edit#gid=731419354)
+* Update the talk title and speaker name in OBS.
+* Update the stream title and go live notification in the [dashboard](https://www.twitch.tv/techlahoma/dashboard/live) for the [next scheduled broadcast](https://okjed.shinyapps.io/streamingtextstrings/
 
 ### Things to know
 * The crowd doesn't have a mic! Ask the speaker to repeat questions before answering them.
 * Leave extra time, or ask for questions early, from Twitch/stream audience. They may be typing
   a question without giving you a notice that they have a question to ask.
-* Switch to slides&audience if you need to adjust the camera
-* Don't use the lav mic.
+* Switch to slides&audience if you need to adjust the primary camera. Do not adjust the camera while it is live. Be careful not to bump into the tripod.
+* Don't use the lavalier mic.
 * Copyrighted music cannot be played
 
 ### Troubleshooting

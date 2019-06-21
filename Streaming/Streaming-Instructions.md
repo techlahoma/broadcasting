@@ -73,13 +73,14 @@
 * If there are questions, relay them to the speaker.
 
 ### Ending the Stream
-* Switch to the *Ending* slide in OBS
-* Click `Stop Streaming` and confirm that you want to stop the stream
+* Switch to the *Ending* slide in OBS and leave it for 30 seconds.
+* Update the talk title and speaker name in OBS for the [next scheduled broadcast](https://okjed.shinyapps.io/streamingtextstrings/).
+* Click `Stop Streaming` in OBS and confirm that you want to stop the stream.
+* Update the stream title and go live notification in the [dashboard](https://www.twitch.tv/techlahoma/dashboard/live) for the [next scheduled broadcast](https://okjed.shinyapps.io/streamingtextstrings/).
 * Make sure mic is turned off
 * Charge the mic battery if you didn't do that before the stream
 * Make sure camera is turned off and lens cap is on
-* Update the talk title and speaker name in OBS.
-* Update the stream title and go live notification in the [dashboard](https://www.twitch.tv/techlahoma/dashboard/live) for the [next scheduled broadcast](https://okjed.shinyapps.io/streamingtextstrings/
+* Turn projectors and presenter TV off.
 
 ### Things to know
 * The crowd doesn't have a mic! Ask the speaker to repeat questions before answering them.

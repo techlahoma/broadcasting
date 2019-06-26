@@ -27,7 +27,7 @@ The following procedures outline the creation of a Twitch highlight:
 
 1. Set the **Start** and **End** times according to the beginning and end of the talk itself.  
 ![Highlighter Menu](https://raw.githubusercontent.com/techlahoma/broadcasting/master/TwitchHighlighting/Highlighter%20Menu.PNG)  
-*Exclude the "dead time" (timer, introduction, etc) before and after the talk. Use your best judgment for any awkward time before the talk begins or during the Q&A.*
+*Exclude the "dead time" (timer, introduction, etc) before the talk and please remember to keep about 30 seconds of "dead" time at the end of the video if possible. Use your best judgment for any awkward time before the talk begins or during the Q&A.*
 
 2. Click **Publish Highlights**.
 

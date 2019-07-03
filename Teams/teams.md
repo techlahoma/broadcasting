@@ -20,8 +20,8 @@
   * Coordinate with streaming volunteers
     * [Norman Stream Team](#norman-stream-team) - Manage Techlahoma streaming and simulcasting in Norman
     * [OKC Stream Team](#okc-stream-team) - Stream Techlahoma meetups at StarSpace46 to Twitch
-    * [Simulcasting](#simulcasting) - Coordinate simulcasting in various parts of the state
     * [Tulsa Stream Team](#tulsa-stream-team) - Manage Techlahoma streaming and simulcasting in Tulsa
+    * [Watch Parties](#watch-parties) - Coordinate watch parties (simulcasting) in various parts of the state
 
 ### A/V Automation Team
 * Members
@@ -117,14 +117,6 @@
     * Post messages
     * Relay questions to speakers
 
-### Simulcasting
-* Members
-  * Kimberly Collins, **need more volunteers**
-* Responsibilities
-  * Coordinate simulcasting in various parts of the state
-* Goals
-  * Simulcast existing events to two education institutions or public libraries at least once per month during the school year.
-
 ### Tulsa Stream Team
 * Members
   * Blixa Morgan, Carlos Moreno, **need more volunteers**
@@ -173,3 +165,12 @@
   * Post videos captured from Techlahoma events and for marketing to YouTube
 * Goals
   * Increase YouTube subscribers to 1000
+
+### Watch Parties
+* Members
+  * Kimberly Collins, Kristin Garcia, Kristny Brown, **need more volunteers**
+  * [#watch-parties](http://techlahoma.slack.com/messages/watch-parties)
+* Responsibilities
+  * Coordinate watch parties (simulcasting) in various parts of the state
+* Goals
+  * Have watch parties for existing events at two education institutions or public libraries at least once per month during the school year.

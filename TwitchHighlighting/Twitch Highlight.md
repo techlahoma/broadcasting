@@ -5,6 +5,8 @@ A Twitch highlight serves two purposes:
 
 The following procedures outline the creation of a Twitch highlight:
 
+* Provide your Twitch username to Kimberly Collins, and she will give you access to create highlights.
+
 ## Broadcasts to be Highlighted
 > See [pending videos](https://twitch-video-manager.herokuapp.com/pending) (site currently in development to automate the following process)
 1. Open the Techlahoma [Twitch Highlights Spreadsheet](https://docs.google.com/spreadsheets/d/1cJqVigTtYIMWPtaYsagYzyYBV1EHO1HTTjpYIt_9Nag)

@@ -11,6 +11,7 @@
     * [Membership Content](#membership-content-team) - Coordinate with membership committee
   * Produce and manage video content
     * [A/V Automation](#av-automation-team) - Automate parts of the streaming process
+    * [Newscast](#newscast) - Work on creating a Techlahoma newscast
     * [Twitch Channel Management](#twitch-channel-management-team) - Manage Techlahoma's Twitch channel
     * [Twitch Highlighting](#twitch-highlighting-team) - Manage highlighting and exporting to YouTube
     * [YouTube Channel Management](#youtube-channel-management-team) - Manage Techlahoma's YouTube channel
@@ -75,6 +76,12 @@
   * Simulcast Techlahoma meetups on Twitch in Norman
 * Goals
   * Stream at least one meetup per month
+
+### Newscast
+* Members
+  * [#newscast](http://techlahoma.slack.com/messages/newscast)
+* Goals
+  * Create a newscast on Techlahoma's YouTube channel
 
 ### OKC A/V Hardware Team
 * Members

@@ -66,6 +66,12 @@
   * Create video content for the membership committee to use
   * Coordinate A/V volunteer recruitment
 
+### Newscast
+* Members
+  * [#newscast](http://techlahoma.slack.com/messages/newscast)
+* Goals
+  * Create a newscast on Techlahoma's YouTube channel
+
 ### Norman Stream Team
 * Members
   * Kristin Garcia (lead), Joe Matthews, Chris Aguilar
@@ -76,12 +82,6 @@
   * Simulcast Techlahoma meetups on Twitch in Norman
 * Goals
   * Stream at least one meetup per month
-
-### Newscast
-* Members
-  * [#newscast](http://techlahoma.slack.com/messages/newscast)
-* Goals
-  * Create a newscast on Techlahoma's YouTube channel
 
 ### OKC A/V Hardware Team
 * Members

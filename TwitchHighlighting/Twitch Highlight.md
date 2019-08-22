@@ -94,3 +94,9 @@ If you have access to Techlahoma's YouTube channel:
 * Add the video to the relevant playlists (month, lightning talks, etc)
 * Change category from `Gaming` to `Science & Technology` 
 * Set the status to `Done` in the [Highlight List](https://docs.google.com/spreadsheets/d/1cJqVigTtYIMWPtaYsagYzyYBV1EHO1HTTjpYIt_9Nag).
+
+### Optional
+
+* Consider messaging the speaker in Slack to send them a link to the video on YouTube and to thank them for speaking.
+* If you have a Twitter account or access to the Twitter account for Techlahoma or the user group, consider tweeting a link and tagging the speaker.
+

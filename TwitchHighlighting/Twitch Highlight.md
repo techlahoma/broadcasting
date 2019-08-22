@@ -12,6 +12,7 @@ The following procedures outline the creation of a Twitch highlight:
 1. Open the Techlahoma [Twitch Highlights Spreadsheet](https://docs.google.com/spreadsheets/d/1cJqVigTtYIMWPtaYsagYzyYBV1EHO1HTTjpYIt_9Nag)
 1. Select a broadcast with no name in the `Highlighter Name` column.
 1. Put your first name in the `Highlighter Name` column.
+1. Set the status of the video to `Highlighting`.
 1. Follow the `Twitch Highlighting Link`. If blank, follow the steps below in the **Video Producer** section.
 
 > ### Video Producer
@@ -65,7 +66,7 @@ See if one is provided by the speaker in the [Speaker Form Responses](https://do
 
 ## Exporting to YouTube
 
-Don't Export a highlight within 24 hours of the original broadcast as per agreement with Twitch. If the talk was less than 24 hours ago, just create the highlight and mark `Need to Export?` as `yes` in the [Highlight List](https://docs.google.com/spreadsheets/d/1cJqVigTtYIMWPtaYsagYzyYBV1EHO1HTTjpYIt_9Nag).
+Don't Export a highlight within 24 hours of the original broadcast as per agreement with Twitch. If the talk was less than 24 hours ago, just create the highlight and set the status to `Need to export` in the [Highlight List](https://docs.google.com/spreadsheets/d/1cJqVigTtYIMWPtaYsagYzyYBV1EHO1HTTjpYIt_9Nag).
 
 Add as many tags/keywords as possible when exporting to YouTube. This is how people will find the videos. Sometimes speakers provide them in the `Keyword List` in the [Speaker Form Responses](https://docs.google.com/spreadsheets/d/10d-1TowAgA2WIqUawxwet9GRmhd2XI8zKxREzxqOuyY/).
 
@@ -79,13 +80,17 @@ For the tags, you'll always include a few things:
 * Anything else highly relevant.
 
 Make sure you set the video to public not private. 
+
 Do not break the video into segments.
- 
-> If you have access to the YouTube channel, add the videos to the relevant playlists (month, lightning talks, etc) and change Youtube Category to 'Science & Technology' from 'Gaming'. If you do not have access, mark the corresponding column in [Highlight List](https://docs.google.com/spreadsheets/d/1cJqVigTtYIMWPtaYsagYzyYBV1EHO1HTTjpYIt_9Nag).
 
-### Finally
+### YouTube
 
-For the `Need to Export?` column in the [Highlight List](https://docs.google.com/spreadsheets/d/1cJqVigTtYIMWPtaYsagYzyYBV1EHO1HTTjpYIt_9Nag):
-* If the video appears on [Techlahoma's YouTube channel](https://youtube.com/techlahoma), enter `no`. 
-* If you're not able to export to YouTube for any reason, enter `yes`.
-* If you give up on waiting for it to show up on YouTube, enter 'Exporting'.
+For the `Status` column in the [Highlight List](https://docs.google.com/spreadsheets/d/1cJqVigTtYIMWPtaYsagYzyYBV1EHO1HTTjpYIt_9Nag):
+* If the video appears on [Techlahoma's YouTube channel](https://youtube.com/techlahoma), select `Need to update YouTube`. 
+* If you're not able to export to YouTube for any reason, select `Need to export`.
+* If you give up on waiting for it to show up on YouTube (it can take a while), select `Exporting`.
+
+If you have access to Techlahoma's YouTube channel:
+* Add the video to the relevant playlists (month, lightning talks, etc)
+* Change category from `Gaming` to `Science & Technology` 
+* Set the status to `Done` in the [Highlight List](https://docs.google.com/spreadsheets/d/1cJqVigTtYIMWPtaYsagYzyYBV1EHO1HTTjpYIt_9Nag).

@@ -10,7 +10,7 @@ The following procedures outline the creation of a Twitch highlight:
 ## Broadcasts to be Highlighted
 > See [pending videos](https://twitch-video-manager.herokuapp.com/pending) (site currently in development to automate the following process)
 1. Open the Techlahoma [Twitch Highlights Spreadsheet](https://docs.google.com/spreadsheets/d/1cJqVigTtYIMWPtaYsagYzyYBV1EHO1HTTjpYIt_9Nag)
-1. Select a broadcast with no name in the `Highlighter Name` column.
+1. Select a broadcast with no name in the `Highlighter Name` column. Don't feel like you need to wait for someone else to create a highlight. If there's no name in the Highlighter Name column, nobody is working on it!
 1. Put your first name in the `Highlighter Name` column.
 1. Set the status of the video to `Highlighting`.
 1. Follow the `Twitch Highlighting Link`. If blank, follow the steps below in the **Video Producer** section.
@@ -30,7 +30,7 @@ The following procedures outline the creation of a Twitch highlight:
 
 1. Set the **Start** and **End** times according to the beginning and end of the talk itself.  
 ![Highlighter Menu](https://raw.githubusercontent.com/techlahoma/broadcasting/master/TwitchHighlighting/Highlighter%20Menu.PNG)  
-*Exclude the "dead time" (timer, introduction, etc) before the talk and please remember to keep about 30 seconds of "dead" time at the end of the video if possible. Use your best judgment for any awkward time before the talk begins or during the Q&A.*
+*Exclude the "dead time" (timer, introduction, etc) before the talk and please try to keep about 20 seconds of "dead" time at the end of the video if possible. Use your best judgment for any awkward time before the talk begins or during the Q&A. When in doubt, it's better to keep more content.*
 
 2. Click **Publish Highlights**.
 
@@ -78,7 +78,7 @@ For the tags, you'll always include a few things:
 * `Techlahoma`
 * The group's name
 * The speaker's name
-* A very clear keyword or set of keywords and phrases, separated by commas and without hashtags(spaces not required after commas), describing the content and how it would be searched. ( `Bootstrap, Creating a Portfolio Site` )
+* A very clear keyword or set of keywords and phrases, separated by commas and without hashtags (spaces not required after commas), describing the content and how it would be searched. ( `Bootstrap, Creating a Portfolio Site` )
 * YouTube allows a maximum of 500 characters for Tags, including separators (`,` or `|`) and each tag can be a maximum of 30 characters.
 > ![YouTube Thumbnail and Tag Dashboard](https://raw.githubusercontent.com/techlahoma/broadcasting/master/TwitchHighlighting/Youtube-TagList.png)
 * Anything else highly relevant.
@@ -93,6 +93,8 @@ For the `Status` column in the [Highlight List](https://docs.google.com/spreadsh
 * If the video appears on [Techlahoma's YouTube channel](https://youtube.com/techlahoma), select `Need to update YouTube`. 
 * If you're not able to export to YouTube for any reason, select `Need to export`.
 * If you give up on waiting for it to show up on YouTube (it can take a while), select `Exporting`.
+
+Update the [YouTube Video Tweets](https://docs.google.com/spreadsheets/d/1iLaEcmLO44olxRw9X538TjxMj3mnuLVFf6Xu1Oz-nGU/) spreadsheet. Add a link to the videon on YouTube and any relevant Twitter handles you can find.
 
 If you have access to Techlahoma's YouTube channel:
 * Set the thumbnail. Look in these locations for a thumbnail (If there isn't one, select the best of the three generated options):

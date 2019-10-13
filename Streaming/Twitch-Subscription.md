@@ -1,6 +1,6 @@
 # Subscribe to Techlahoma's Twitch Channel!
 
-We've been streaming almost all of our meetups at StarSpace46 to [Techlahoma's Twitch](twitch.tv/techlahoma). If you have Amazon Prime, you can subscribe to our channel for free every month. Techlahoma gets a small donation from Amazon for each subscription!
+We've been streaming almost all of our meetups at StarSpace46 to [Techlahoma's Twitch](twitch.tv/techlahoma). If you have Amazon Prime, you can subscribe to our channel for free every month. The subscription does not auto-renew unfortunately and you will have to manually renew. Techlahoma gets a small donation from Amazon for each subscription which goes back into the Techlahoma community!
 
 Here are the steps to sign up for Twitch Prime and subscribe to Techlahoma's Twitch channel:
 

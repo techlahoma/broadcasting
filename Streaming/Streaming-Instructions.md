@@ -45,8 +45,9 @@
       audio sources that you don't intend to record, which is typically
       everything except the microphone, unless the presentation has audio/video,
       in which cause that audio source should be unmuted and tested.
-* Position the microphone so that it's close to and pointed towards the
-  speaker's mouth
+    * Make sure the Mic/Aux slider is set at 100% (all the way to the right).
+      ![MicAuxSlider](/Streaming/micauxslider.png "Mic/Aux Slider")
+* Position the microphone so that it's close to and pointed towards the speaker's mouth
   
 ### Starting the Stream
 * Set start time in Snaz (generally 5-15 minutes after the meetup starts; if the

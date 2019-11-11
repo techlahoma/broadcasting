@@ -1,6 +1,6 @@
 ### Content Creation Committee
 * Members
-  * Kimberly Collins (chair), James Deaton (co-chair), Aaron Krauss, Alex Adriaanse, Mike Mattice, Ryan Johnson
+  * Kimberly Collins (chair), James Deaton (co-chair), Alex Adriaanse, Mike Mattice, Ryan Johnson
   * [#content-creation](https://techlahoma.slack.com/messages/content-creation)
   * @contentcreation
 * Responsibilities

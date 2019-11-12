@@ -94,8 +94,6 @@ For the `Status` column in the [Highlight List](https://docs.google.com/spreadsh
 * If you're not able to export to YouTube for any reason, select `Need to export`.
 * If you give up on waiting for it to show up on YouTube (it can take a while), select `Exporting`.
 
-Update the [YouTube Video Tweets](https://docs.google.com/spreadsheets/d/1iLaEcmLO44olxRw9X538TjxMj3mnuLVFf6Xu1Oz-nGU/) spreadsheet. Add a link to the videon on YouTube and any relevant Twitter handles you can find.
-
 If you have access to Techlahoma's YouTube channel:
 * Set the thumbnail. Look in these locations for a thumbnail (If there isn't one, select the best of the three generated options):
   * [Highlight List](https://docs.google.com/spreadsheets/d/1cJqVigTtYIMWPtaYsagYzyYBV1EHO1HTTjpYIt_9Nag)

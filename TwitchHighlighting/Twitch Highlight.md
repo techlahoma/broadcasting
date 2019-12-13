@@ -16,7 +16,7 @@ The following procedures outline the creation of a Twitch highlight:
 1. Follow the `Twitch Highlighting Link`. If blank, follow the steps below in the **Video Producer** section.
 
 > ### Video Producer
-> #### 1. Go to the [Video Producer](https://www.twitch.tv/techlahoma/manager) for the Techlahoma channel.
+> #### 1. Go to the [Video Producer](https://dashboard.twitch.tv/u/techlahoma/content/video-producer) for the Techlahoma channel.
 > 
 > ![Video Producer Dashboard](https://raw.githubusercontent.com/techlahoma/broadcasting/master/TwitchHighlighting/Dashboard.PNG)
 > 

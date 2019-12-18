@@ -1,6 +1,6 @@
 ### Content Creation Committee
 * Members
-  * Kimberly Collins (chair), James Deaton (co-chair), Alex Adriaanse, Mike Mattice, Ryan Johnson
+  * ? (chair), James Deaton (co-chair), Alex Adriaanse, Kimberly Collins, Mike Mattice, Ryan Johnson
   * [#content-creation](https://techlahoma.slack.com/messages/content-creation)
   * @contentcreation
 * Responsibilities
@@ -17,9 +17,10 @@
     * [YouTube Channel Management](YouTube_Channel_Management_Team.md) - Manage Techlahoma's YouTube channel
   * Manage Techlahoma's A/V processes at StarSpace46
     * [OKC A/V Hardware](OKC_AV_Hardware_Team.md) - Manage A/V equipment in StarSpace46 event center
-    * [OKC A/V Volunteer Management](OKC_AV_Volunteer_Management_Team.md) - Coordinate streaming with user group leaders, speakers, and volunteers
-  * Coordinate with streaming volunteers
-    * [Norman Stream Team](Norman_Stream_Team.md) - Manage Techlahoma streaming and simulcasting in Norman
     * [OKC Stream Team](OKC_Stream_Team.md) - Stream Techlahoma meetups at StarSpace46 to Twitch
+  * Coordinate with Techlahoma streaming volunteers
+    * [Norman Stream Team](Norman_Stream_Team.md) - Manage Techlahoma streaming and simulcasting in Norman
+    * Project 3810
+    * TBS Factoring
     * [Tulsa Stream Team](Tulsa_Stream_Team.md) - Manage Techlahoma streaming and simulcasting in Tulsa
     * [Watch Parties](Watch_Parties.md) - Coordinate watch parties (simulcasting) in various parts of the state

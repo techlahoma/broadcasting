@@ -23,4 +23,3 @@
     * Project 3810
     * TBS Factoring
     * [Tulsa Stream Team](Tulsa_Stream_Team.md) - Manage Techlahoma streaming and simulcasting in Tulsa
-    * [Watch Parties](Watch_Parties.md) - Coordinate watch parties (simulcasting) in various parts of the state

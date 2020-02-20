@@ -23,7 +23,7 @@
 * [Twitch Highlighting](TwitchHighlighting/Twitch&#32;Highlight.md)
 
 ## Volunteers
-Contact Kimberly if you would like to be involved!
+Contact Dodzidenu Dzakuma if you would like to be involved!
 
 ### [Content Creation Committee](https://github.com/techlahoma/committees/blob/master/content-creation.md)
 

@@ -27,4 +27,4 @@ Contact Dodzidenu Dzakuma if you would like to be involved!
 
 ### [Content Creation Committee](https://github.com/techlahoma/committees/blob/master/content-creation.md)
 
-### [Teams and Responsibilities](https://github.com/techlahoma/broadcasting/blob/master/teams.md)
+### [Teams and Responsibilities](https://github.com/techlahoma/broadcasting/blob/master/Teams/_Teams.md)

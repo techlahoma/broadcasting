@@ -1,6 +1,6 @@
 ### Content Creation Committee
 * Members
-  * Dodzidenu Dzakuma (chair), James Deaton (co-chair), Alex Adriaanse, Kimberly Collins, Mike Mattice, Ryan Johnson
+  * Dodzidenu Dzakuma (chair), James Deaton (co-chair), Alex Adriaanse, Mike Mattice, Ryan Johnson
   * [#content-creation](https://techlahoma.slack.com/messages/content-creation)
   * @contentcreation
 * Responsibilities

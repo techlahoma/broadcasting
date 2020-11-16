@@ -6,7 +6,8 @@
   * Make sure that you will be able to connect your laptop to the HDMI. If you need an adapter, please bring it or check with the user group leader or an A/V volunteer that one will be available. Don’t wait until your talk is starting to do this!
   * Verify that your **name, talk title, and a short summary** of your talk are listed correctly on the Meetup page for the event (even for lightning talks!).
   * Let the A/V volunteer know if you don’t want your presentation to be streamed or recorded. These are completely optional!
-  * Let the A/V volunteer know whether the presentation contains audio/video, so that can be tested before your talk starts. Please be aware that copyrighted music cannot be played during the stream.
+  * Let the A/V volunteer know whether the presentation contains audio/video, so that can be tested before your talk starts. 
+  * **Do not** include copyrighted music in your presentation. Spotify has entire playlists of copyright-free music for streaming and you can download copyright-free tracks from https://ncs.io/
 * During your talk:
   * Say your name and the title or a short summary of your talk at the beginning.
   * If the person asking a question doesn't have a microphone, **repeat the question before answering it.** This also helps you verify that you understood the question correctly.

@@ -1,110 +1,97 @@
-# Creating a Twitch Highlight
+# Creating and Exporting Twitch Highlights
 A Twitch highlight serves two purposes: 
 1. Condensing the broadcast for export to YouTube.
 2. Creating a permanent instance of the broadcast in Twitch to prevent expiration (60 days)
 
-The following procedures outline the creation of a Twitch highlight:
+The following procedures outline the creation of a Twitch highlight.
 
-* Provide your Twitch username to Dodzidenu Dzakuma, and he will give you access to create highlights.
+* First provide your Twitch username to Dodzidenu Dzakuma, and he will give you access to create highlights on Twitch.
 
-## Broadcasts to be Highlighted
-> See [pending videos](https://twitch-video-manager.herokuapp.com/pending) (site currently in development to automate the following process)
-1. Open the Techlahoma [Twitch Highlights Spreadsheet](https://docs.google.com/spreadsheets/d/1cJqVigTtYIMWPtaYsagYzyYBV1EHO1HTTjpYIt_9Nag)
-1. Select a broadcast with no name in the `Highlighter Name` column. Don't feel like you need to wait for someone else to create a highlight. If there's no name in the Highlighter Name column, nobody is working on it!
-1. Put your first name in the `Highlighter Name` column.
-1. Set the status of the video to `Highlighting`.
-1. Follow the `Twitch Highlighting Link`. If blank, follow the steps below in the **Video Producer** section.
+## Creating the Highlight
 
-> ### Video Producer
-> #### 1. Go to the [Video Producer](https://dashboard.twitch.tv/u/techlahoma/content/video-producer) for the Techlahoma channel.
-> 
-> ![Video Producer Dashboard](https://raw.githubusercontent.com/techlahoma/broadcasting/master/TwitchHighlighting/Dashboard.PNG)
-> 
-> #### 2. Find the video to be highlighted, and click the **Highlight** button.
-> 
-> ![Highlight Button](https://raw.githubusercontent.com/techlahoma/broadcasting/master/TwitchHighlighting/Highlight%20Button.PNG)
+### 1. Go to the [Video Producer](https://dashboard.twitch.tv/u/techlahoma/content/video-producer) for the Techlahoma channel.
 
----
+![Video Producer Dashboard](https://raw.githubusercontent.com/techlahoma/broadcasting/master/TwitchHighlighting/Dashboard.PNG)
 
-## Highlighting the Video
+### 2. Find the video to be highlighted, and click the **Highlight** button.
 
-1. Set the **Start** and **End** times according to the beginning and end of the talk itself.  
-![Highlighter Menu](https://raw.githubusercontent.com/techlahoma/broadcasting/master/TwitchHighlighting/Highlighter%20Menu.PNG)  
-*Exclude the "dead time" (timer, introduction, etc) before the talk and please try to keep about 20 seconds of "dead" time at the end of the video if possible. Use your best judgment for any awkward time before the talk begins or during the Q&A. When in doubt, it's better to keep more content.*
+![Highlight Button](https://raw.githubusercontent.com/techlahoma/broadcasting/master/TwitchHighlighting/Highlight%20Button.PNG)
 
-2. Click **Publish Highlights**.
+### Setting the Timestamps
 
-## Editing Highlight Information 
+#### 1. Find the exact times when the talk itself begins and ends. 
+
+* Exclude the time before the talk (timer/countdown, leader introduction, announcements, etc). 
+* You can keep up to 20 seconds of "dead" time at the end of the video. 
+* **Use your best judgment** for any awkward time before the talk begins or during the Q&A. 
+* When in doubt, it's better to keep more content. We can always remove more later, but we can never add it back.
+
+#### 2. Set the **Start** and **End** timestamps. 
+
+* After setting the timestamps, click the start and end inputs to update the yellow preview bar. 
+* The highlights are actually taken from the preview bar, not the value that is in the start/end inputs.
+* Check the calculated total video length on the left-hand side.
+
+![Highlighter Menu](https://raw.githubusercontent.com/techlahoma/broadcasting/master/TwitchHighlighting/Highlighter%20Menu.PNG) 
+
+#### 3. Click **Publish Highlights**.
+
+### Editing Highlight Information 
  
 | ![Highlight Edit Pane](https://raw.githubusercontent.com/techlahoma/broadcasting/master/TwitchHighlighting/Edit%20Highlight.PNG) |
 |:-:|
 | *Highlight Edit Panel* |  
 
-3. Name the highlight using the following format:  
-**`Talk Title - Speaker Name: Event/Group`**  
-*Use the title from the [Highlight List](https://docs.google.com/spreadsheets/d/1cJqVigTtYIMWPtaYsagYzyYBV1EHO1HTTjpYIt_9Nag). The title must be less than 100 characters, or the export to YouTube will fail.*
+#### 1. Name the highlight using the following format:  
+**`Talk Title - Speaker Name: Group Name`** 
+* Remove `Highlight:` from the beginning of the title.
+* Use the conference or event name if the talk is not for a specific group.
+* The title **must be less than 100 characters**, or the export to YouTube will fail.
 
-4. Provide a Description:   
-See if one is provided by the speaker in the [Speaker Form Responses](https://docs.google.com/spreadsheets/d/10d-1TowAgA2WIqUawxwet9GRmhd2XI8zKxREzxqOuyY/). If so, just a copy + paste. This is the preferred way to go. Include the `Summary/Abstract/Outline`, `Speaker's Bio`, and `Links to Share`.  
+#### 2. Provide a Description: 
   
-   Otherwise, try to find the event on Meetup.com and use any details provided there. The meetup link should be in the [streaming schedule](https://docs.google.com/spreadsheets/d/1Ga72YMOD5V038D_4GFYggbuVF-JDu3rOPxHHPaNHu-E/edit#gid=537074142)
+* Try to find the event on Meetup.com and use any details provided there. 
+* Otherwise, write a short summary or use `<Speaker Name> talks about <Talk Title>.`
 
    ![image](https://user-images.githubusercontent.com/954596/32418141-e38ceb7e-c229-11e7-8aee-db87bc569737.png)
 
-   Twitch allows Markdown in their description, but when exporting to YouTube, this markdown will be rendered as plain text.  Links however that follow the format https://www.XXXX.com will render correctly in the YouTube description as a link instead of plain text. 
-> *Note: a link needs to start with 'https://'*
-   
-   Make sure there is a blank line as the final line of the Description. The export process will append " -- Watch live at https://www.twitch.tv/techlahoma" to the final line, and you need a linebreak to match the above description's formatting 
-   
-5. The category most applicable to Twitch is now **`Science & Technology`**.
+#### 3. Verify that the category is **`Science & Technology`**.
 
-6. You have the ability to choose or add your own thumbnail. Under the video, on the left you'll see 1 or many images auto-generated by Twitch and an upload image icon. Look in these locations for a thumbnail (there might not be one):
-* [Highlight List](https://docs.google.com/spreadsheets/d/1cJqVigTtYIMWPtaYsagYzyYBV1EHO1HTTjpYIt_9Nag)
-* [Streaming Schedule](https://docs.google.com/spreadsheets/d/1Ga72YMOD5V038D_4GFYggbuVF-JDu3rOPxHHPaNHu-E/edit#gid=537074142)
-* [Google drive directory](https://drive.google.com/drive/folders/1H--fJrjfjfgno-IQGDYdmuopM65VBrBd)
-Now upload the image to twitch by clicking the upload icon, then confirm it is selected.
+#### 4. Choose or add your own thumbnail (optional).
 
-7. Click **Save Changes**.
+#### 5. Click **Save Changes**.
 
-> *The highlight is now ready for export to YouTube.*
+The highlight is now ready for export to YouTube.
 
 ## Exporting to YouTube
 
-Don't Export a highlight within 24 hours of the original broadcast as per agreement with Twitch. If the talk was less than 24 hours ago, just create the highlight and set the status to `Need to export` in the [Highlight List](https://docs.google.com/spreadsheets/d/1cJqVigTtYIMWPtaYsagYzyYBV1EHO1HTTjpYIt_9Nag).
+### 1. Go to the [Video Producer](https://dashboard.twitch.tv/u/techlahoma/content/video-producer) for the Techlahoma channel.
 
-Add as many tags/keywords as possible when exporting to YouTube. This is how people will find the videos. Sometimes speakers provide them in the `Keyword List` in the [Speaker Form Responses](https://docs.google.com/spreadsheets/d/10d-1TowAgA2WIqUawxwet9GRmhd2XI8zKxREzxqOuyY/).
+### 2. Find the highlight to be exported, and click `Export` in the 3 dots menu.
 
-For the tags, you'll always include a few things:
+### 3. Add tags/keywords (optional).
+
 * `Techlahoma`
 * The group's name
 * The speaker's name
 * A very clear keyword or set of keywords and phrases, separated by commas and without hashtags (spaces not required after commas), describing the content and how it would be searched. ( `Bootstrap, Creating a Portfolio Site` )
 * YouTube allows a maximum of 500 characters for Tags, including separators (`,` or `|`) and each tag can be a maximum of 30 characters.
 > ![YouTube Thumbnail and Tag Dashboard](https://raw.githubusercontent.com/techlahoma/broadcasting/master/TwitchHighlighting/Youtube-TagList.png)
-* Anything else highly relevant.
 
-Make sure you set the video to public not private. 
+### 4. Make sure you set the video to public not private. 
 
-Do not break the video into segments.
+### 5. Do not break the video into segments.
 
-### YouTube
+### 6. Click `Start Export`. This process can take a while.
 
-For the `Status` column in the [Highlight List](https://docs.google.com/spreadsheets/d/1cJqVigTtYIMWPtaYsagYzyYBV1EHO1HTTjpYIt_9Nag):
-* If the video appears on [Techlahoma's YouTube channel](https://youtube.com/techlahoma), select `Need to update YouTube`. 
-* If you're not able to export to YouTube for any reason, select `Need to export`.
-* If you give up on waiting for it to show up on YouTube (it can take a while), select `Exporting`.
+## Updating the Video on YouTube
 
 If you have access to Techlahoma's YouTube channel:
-* Set the thumbnail. Look in these locations for a thumbnail (If there isn't one, select the best of the three generated options):
-  * [Highlight List](https://docs.google.com/spreadsheets/d/1cJqVigTtYIMWPtaYsagYzyYBV1EHO1HTTjpYIt_9Nag)
-  * [Streaming Schedule](https://docs.google.com/spreadsheets/d/1Ga72YMOD5V038D_4GFYggbuVF-JDu3rOPxHHPaNHu-E/edit#gid=537074142)
-  * [Google drive directory](https://drive.google.com/drive/folders/1H--fJrjfjfgno-IQGDYdmuopM65VBrBd)
-* Add the video to the relevant playlists (month, lightning talks, etc)
+* Set the thumbnail.
+* Add the video to the relevant playlists (group, lightning talks, etc).
 * Change category from `Gaming` to `Science & Technology` 
-* Set the status to `Done` in the [Highlight List](https://docs.google.com/spreadsheets/d/1cJqVigTtYIMWPtaYsagYzyYBV1EHO1HTTjpYIt_9Nag).
 
-### Optional
+## Optional Follow-Up
 
 * Consider messaging the speaker in Slack to send them a link to the video on YouTube and to thank them for speaking.
 * If you have a Twitter account or access to the Twitter account for Techlahoma or the user group, consider tweeting a link and tagging the speaker.
-

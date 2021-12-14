@@ -28,8 +28,8 @@ The following procedures outline the creation of a Twitch highlight.
 
 #### 2. Set the **Start** and **End** timestamps. 
 
-* After setting the timestamps, click the start and end inputs to update the yellow preview bar. 
-* The highlights are actually taken from the preview bar, not the value that is in the start/end inputs.
+* After setting the timestamps, make sure the yellow preview bar updated correctly.
+* Alternately you can pause the video at the desired start/end point and click the button next to the start/end timestamp fields to set 
 * Check the calculated total video length on the left-hand side.
 
 ![Highlighter Menu](https://raw.githubusercontent.com/techlahoma/broadcasting/master/TwitchHighlighting/Highlighter%20Menu.PNG) 

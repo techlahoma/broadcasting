@@ -5,7 +5,7 @@ A Twitch highlight serves two purposes:
 
 The following procedures outline the creation of a Twitch highlight.
 
-* First provide your Twitch username to Dodzidenu Dzakuma, and he will give you access to create highlights on Twitch.
+* First provide your Twitch username to Emily Harden, and she will give you access to create highlights on Twitch.
 
 ## Creating the Highlight
 

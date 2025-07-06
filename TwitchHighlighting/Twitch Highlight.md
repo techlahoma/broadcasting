@@ -1,11 +1,12 @@
 # Creating and Exporting Twitch Highlights
 A Twitch highlight serves two purposes: 
 1. Condensing the broadcast for export to YouTube.
-2. Creating a permanent instance of the broadcast in Twitch to prevent expiration (60 days)
+2. Creating a permanent instance of the broadcast in Twitch to prevent expiration (14 days)
 
 The following procedures outline the creation of a Twitch highlight.
 
-* First provide your Twitch username to Emily Harden, and she will give you access to create highlights on Twitch.
+* First fill out this form https://airtable.com/appfP4XNwa9ZRlfgY/shriK9OWAwrOsx6MW to request access. Under Type of Task, select **Access request to Techlahoma account** and under program select **1Password**. Under notes add your twitch username.
+*  Reach out to Emily Harden and give her your twitch username, and she will give you access to create highlights on Twitch and upload videos on YouTube.
 
 ## Creating the Highlight
 
@@ -82,7 +83,7 @@ The highlight is now ready for export to YouTube.
 
 ### 5. Do not break the video into segments.
 
-### 6. Click `Start Export`. This process can take a while.
+### 6. Click `Start Export`. This process can take a while. You can view the upload status if you have access to the techlahoma YouTube channel.
 
 ## Updating the Video on YouTube
 

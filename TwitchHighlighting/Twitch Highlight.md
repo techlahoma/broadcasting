@@ -5,7 +5,7 @@ A Twitch highlight serves two purposes:
 
 The following procedures outline the creation of a Twitch highlight.
 
-* First fill out this form https://airtable.com/appfP4XNwa9ZRlfgY/shriK9OWAwrOsx6MW to request access. Under Type of Task, select **Access request to Techlahoma account** and under program select **1Password**. Under notes add your twitch username.
+* First fill out [this form](https://slack.com/shortcuts/Ft094S3CQ3QE/cdc87f810134cd973333060e95f61000) to request editor access to Twitch and YouTube.
 *  Reach out to Emily Harden and give her your twitch username, and she will give you access to create highlights on Twitch and upload videos on YouTube.
 
 ## Creating the Highlight

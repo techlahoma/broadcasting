@@ -5,7 +5,7 @@ A Twitch highlight serves two purposes:
 
 The following procedures outline the creation of a Twitch highlight.
 
-* First fill out [this form](https://slack.com/shortcuts/Ft094S3CQ3QE/cdc87f810134cd973333060e95f61000) to request editor access to Twitch and YouTube.
+* First fill out [this form](https://techlahoma.slack.com/archives/C03GE7DJ6/p1751995672418689?thread_ts=1751554540.964149&cid=C03GE7DJ6) to request editor access to Twitch and YouTube.
 *  Reach out to Emily Harden and give her your twitch username, and she will give you access to create highlights on Twitch and upload videos on YouTube.
 
 ## Creating the Highlight
